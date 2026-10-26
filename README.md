@@ -16,7 +16,7 @@ Guías prácticas y plantillas en español para fundadores que quieren ordenar s
 
 Precio: USD 19
 
-- Una bóveda de Obsidian en español \(no es para Notion; no es bilingüe\)
+- Una bóveda de Obsidian, toda en español \(no es una plantilla de Notion\)
 - 28 notas listas: panel de inicio, bandeja y áreas de producto, ventas, finanzas, equipo y personal
 - 9 plantillas: nota diaria, revisión semanal, revisión mensual, proyecto, cliente, decisión, reunión, 1 a 1 y reunión con inversor
 - Mini CRM con pipeline de clientes, registro de decisiones y tablero de métricas
