@@ -28,6 +28,9 @@ Precio: USD 19
 
 ## Artículos
 
+- [Registro de decisiones: qué es y cómo usarlo en tu negocio \(con plantilla\)](https://yabianskysempire.github.io/fundador/articulos/registro-de-decisiones.html)
+- [Cómo armar un CRM gratis en Obsidian para freelancers y fundadores](https://yabianskysempire.github.io/fundador/articulos/crm-gratis-en-obsidian.html)
+- [Cómo hacer una revisión semanal: guía paso a paso \(con plantilla gratis\)](https://yabianskysempire.github.io/fundador/articulos/como-hacer-una-revision-semanal.html)
 - [Sistema de planificación semanal y trimestral para fundadores de startups en LATAM](https://yabianskysempire.github.io/fundador/articulos/sistema-de-planificacion-semanal-y-trimestral-para-24c573.html)
 - [Plantillas de Obsidian en español para organizar tu negocio: cuáles usar y cómo instalarlas](https://yabianskysempire.github.io/fundador/articulos/plantillas-de-obsidian-en-espanol-para-tu-negocio.html)
 - [Obsidian vs Notion para emprendedores hispanohablantes: cuál elegir y cómo organizarte](https://yabianskysempire.github.io/fundador/articulos/obsidian-vs-notion-para-emprendedores-hispanohabla-4b80c5.html)
