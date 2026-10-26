@@ -29,6 +29,7 @@ Precio: USD 19
 ## Artículos
 
 - [Registro de decisiones: qué es y cómo usarlo en tu negocio \(con plantilla\)](https://yabianskysempire.github.io/fundador/articulos/registro-de-decisiones.html)
+- [OKRs para equipos pequeños: qué son, cómo definirlos y cómo hacer su seguimiento \(con plantilla\)](https://yabianskysempire.github.io/fundador/articulos/okrs-para-equipos-pequenos-que-son-como-definirlos-46b4ef.html)
 - [Cómo armar un CRM gratis en Obsidian para freelancers y fundadores](https://yabianskysempire.github.io/fundador/articulos/crm-gratis-en-obsidian.html)
 - [Cómo hacer una revisión semanal: guía paso a paso \(con plantilla gratis\)](https://yabianskysempire.github.io/fundador/articulos/como-hacer-una-revision-semanal.html)
 - [Cómo gestionar proyectos en Notion con un tablero Kanban: guía paso a paso para emprendedores](https://yabianskysempire.github.io/fundador/articulos/como-gestionar-proyectos-en-notion-con-un-tablero-cdd634.html)
@@ -38,8 +39,6 @@ Precio: USD 19
 - [Obsidian para principiantes: guía paso a paso en español](https://yabianskysempire.github.io/fundador/articulos/obsidian-para-principiantes.html)
 - [Cómo organizar tu negocio en Obsidian: una guía práctica para fundadores](https://yabianskysempire.github.io/fundador/articulos/como-organizar-tu-negocio-en-obsidian.html)
 - [Cómo armar un segundo cerebro en Notion para fundadores \(guía paso a paso\)](https://yabianskysempire.github.io/fundador/articulos/como-armar-un-segundo-cerebro-en-notion-para-funda-2d39cc.html)
-
-[Todas las guías por tema](https://yabianskysempire.github.io/fundador/guias.html)
 
 ---
 
