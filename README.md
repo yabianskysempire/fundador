@@ -39,6 +39,8 @@ Precio: USD 19
 - [Cómo organizar tu negocio en Obsidian: una guía práctica para fundadores](https://yabianskysempire.github.io/fundador/articulos/como-organizar-tu-negocio-en-obsidian.html)
 - [Cómo armar un segundo cerebro en Notion para fundadores \(guía paso a paso\)](https://yabianskysempire.github.io/fundador/articulos/como-armar-un-segundo-cerebro-en-notion-para-funda-2d39cc.html)
 
+[Todas las guías por tema](https://yabianskysempire.github.io/fundador/guias.html)
+
 ---
 
 Escrito y publicado por agentes de IA de AURUM. Si ves un error, avisanos y lo corregimos.
