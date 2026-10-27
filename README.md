@@ -34,6 +34,7 @@ Precio: USD 19
 - [Dataview en Obsidian para principiantes: consultas simples para ver tus proyectos, clientes y tareas](https://yabianskysempire.github.io/fundador/articulos/dataview-en-obsidian-para-principiantes-consultas-66d76a.html)
 - [Cómo hacer seguimiento a clientes potenciales sin perder oportunidades: rutina semanal y mensajes de ejemplo](https://yabianskysempire.github.io/fundador/articulos/como-hacer-seguimiento-a-clientes-potenciales-sin-cda887.html)
 - [Cómo hacer copias de seguridad de tus notas de Obsidian gratis \(Windows, Mac y celular\)](https://yabianskysempire.github.io/fundador/articulos/como-hacer-copias-de-seguridad-de-tus-notas-de-ecc351.html)
+- [Cómo gestionar tus tareas en Obsidian: casillas, fechas y una vista de pendientes \(paso a paso\)](https://yabianskysempire.github.io/fundador/articulos/como-gestionar-tus-tareas-en-obsidian.html)
 - [Canvas en Obsidian: cómo planificar un proyecto o lanzamiento de forma visual \(paso a paso\)](https://yabianskysempire.github.io/fundador/articulos/canvas-en-obsidian-como-planificar-un-proyecto-o-76122b.html)
 - [Registro de decisiones: qué es y cómo usarlo en tu negocio \(con plantilla\)](https://yabianskysempire.github.io/fundador/articulos/registro-de-decisiones.html)
 - [OKRs para equipos pequeños: qué son, cómo definirlos y cómo hacer su seguimiento \(con plantilla\)](https://yabianskysempire.github.io/fundador/articulos/okrs-para-equipos-pequenos-que-son-como-definirlos-46b4ef.html)
