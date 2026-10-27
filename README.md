@@ -28,6 +28,7 @@ Precio: USD 19
 
 ## Artículos
 
+- [Tablero de métricas para una startup temprana: qué medir cada semana y cómo armarlo](https://yabianskysempire.github.io/fundador/articulos/tablero-de-metricas-startup.html)
 - [Nota diaria en Obsidian: plantilla y rutina de 5 minutos para empezar el día con foco](https://yabianskysempire.github.io/fundador/articulos/nota-diaria-en-obsidian.html)
 - [Método PARA en español: cómo organizar tus notas en Obsidian con proyectos, áreas, recursos y archivo](https://yabianskysempire.github.io/fundador/articulos/metodo-para-en-obsidian.html)
 - [Registro de decisiones: qué es y cómo usarlo en tu negocio \(con plantilla\)](https://yabianskysempire.github.io/fundador/articulos/registro-de-decisiones.html)
