@@ -28,6 +28,7 @@ Precio: USD 19
 
 ## Artículos
 
+- [Nota diaria en Obsidian: plantilla y rutina de 5 minutos para empezar el día con foco](https://yabianskysempire.github.io/fundador/articulos/nota-diaria-en-obsidian.html)
 - [Método PARA en español: cómo organizar tus notas en Obsidian con proyectos, áreas, recursos y archivo](https://yabianskysempire.github.io/fundador/articulos/metodo-para-en-obsidian.html)
 - [Registro de decisiones: qué es y cómo usarlo en tu negocio \(con plantilla\)](https://yabianskysempire.github.io/fundador/articulos/registro-de-decisiones.html)
 - [OKRs para equipos pequeños: qué son, cómo definirlos y cómo hacer su seguimiento \(con plantilla\)](https://yabianskysempire.github.io/fundador/articulos/okrs-para-equipos-pequenos-que-son-como-definirlos-46b4ef.html)
