@@ -74,13 +74,13 @@ Objetivo: publicar la web el 2025-08-01.
 <h2>5. Una vista de pendientes con la búsqueda integrada</h2>
 <p>Aquí está la parte que ahorra tiempo. Obsidian tiene operadores de búsqueda para tareas. Por ejemplo, <code>task-todo:</code> encuentra tareas sin completar y <code>task-done:</code> las completadas.</p>
 <p>Para mostrar los resultados dentro de una nota, crea una nota llamada <code>Pendientes</code> y escribe un bloque de código de tipo <code>query</code>:</p>
-<pre><code></code></pre>
-<p>task-todo:&quot;&quot;</p>
-<pre><code></code></pre>
+<pre><code>```query
+task-todo:&quot;&quot;
+```</code></pre>
 <p>En modo lectura, ese bloque se convierte en una búsqueda incrustada que muestra tus tareas pendientes agrupadas por nota. Puedes combinarla con otros filtros:</p>
-<pre><code></code></pre>
-<p>task-todo:&quot;&quot; path:&quot;Proyectos&quot;</p>
-<pre><code></code></pre>
+<pre><code>```query
+task-todo:&quot;&quot; path:&quot;Proyectos&quot;
+```</code></pre>
 <p>Esa versión muestra solo los pendientes de la carpeta <code>Proyectos</code>. Y si escribes las fechas como en el paso 2, también puedes buscar por texto, por ejemplo <code>task-todo:&quot;2025-07&quot;</code> para ver lo que vence en julio de 2025.</p>
 <p>Una buena idea es tener tres notas de vista:</p>
 <ul><li><strong>Pendientes:</strong> todas las tareas abiertas.</li><li><strong>Esta semana:</strong> una búsqueda con las fechas de la semana.</li><li><strong>Proyectos:</strong> una búsqueda limitada a la carpeta de proyectos.</li></ul>
