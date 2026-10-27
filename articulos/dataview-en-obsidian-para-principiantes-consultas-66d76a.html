@@ -88,6 +88,7 @@ FROM &quot;Proyectos&quot;
 WHERE entrega &gt;= date(today) AND entrega &lt;= date(today) + dur(7 days)
 SORT entrega ASC</code></pre>
 <p><strong>3. Clientes agrupados por etapa (un pipeline simple)</strong></p>
+<p>Si todavía no tienes notas de clientes con etapas, la guía para <a href="https://yabianskysempire.github.io/fundador/articulos/crm-gratis-en-obsidian.html">armar un CRM gratis en Obsidian</a> explica cómo organizarlas.</p>
 <pre><code>TABLE WITHOUT ID etapa AS &quot;Etapa&quot;, rows.file.link AS &quot;Clientes&quot;
 FROM &quot;Clientes&quot;
 GROUP BY etapa</code></pre>
