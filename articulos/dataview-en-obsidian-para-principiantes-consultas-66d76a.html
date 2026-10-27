@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dataview en Obsidian para principiantes: consultas simples para ver tus proyectos, clientes y tareas · Sistema Operativo del Fundador</title>
+<meta name="description" content="Si ya usas Obsidian para organizar tu negocio, tarde o temprano te pasa lo mismo: tienes una nota por proyecto, una por cliente y tareas repartidas por…">
+<link rel="canonical" href="https://yabianskysempire.github.io/fundador/articulos/dataview-en-obsidian-para-principiantes-consultas-66d76a.html">
+<meta property="og:title" content="Dataview en Obsidian para principiantes: consultas simples para ver tus proyectos, clientes y tareas · Sistema Operativo del Fundador">
+<meta property="og:description" content="Si ya usas Obsidian para organizar tu negocio, tarde o temprano te pasa lo mismo: tienes una nota por proyecto, una por cliente y tareas repartidas por…">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://yabianskysempire.github.io/fundador/articulos/dataview-en-obsidian-para-principiantes-consultas-66d76a.html">
+<meta property="og:image" content="https://yabianskysempire.github.io/fundador/descargas/tarjeta-social.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Sistema Operativo del Fundador">
+<meta name="twitter:card" content="summary_large_image">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self'; img-src 'self' data:; script-src 'none'; base-uri 'none'; form-action 'none'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<link rel="stylesheet" href="/fundador/style.css?v=ef68f7beed">
+<link rel="alternate" type="application/rss+xml" title="Sistema Operativo del Fundador" href="/fundador/feed.xml">
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "Dataview en Obsidian para principiantes: consultas simples para ver tus proyectos, clientes y tareas", "description": "Si ya usas Obsidian para organizar tu negocio, tarde o temprano te pasa lo mismo: tienes una nota por proyecto, una por cliente y tareas repartidas por…", "datePublished": "2026-10-27", "dateModified": "2026-10-27", "inLanguage": "es", "mainEntityOfPage": "https://yabianskysempire.github.io/fundador/articulos/dataview-en-obsidian-para-principiantes-consultas-66d76a.html", "author": {"@type": "Organization", "name": "Sistema Operativo del Fundador", "url": "https://yabianskysempire.github.io/fundador/"}, "publisher": {"@type": "Organization", "name": "Sistema Operativo del Fundador", "url": "https://yabianskysempire.github.io/fundador/"}, "image": "https://yabianskysempire.github.io/fundador/descargas/tarjeta-social.png"}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Inicio", "item": "https://yabianskysempire.github.io/fundador/"}, {"@type": "ListItem", "position": 2, "name": "Guías por tema", "item": "https://yabianskysempire.github.io/fundador/guias.html"}, {"@type": "ListItem", "position": 3, "name": "Dataview en Obsidian para principiantes: consultas simples para ver tus proyectos, clientes y tareas", "item": "https://yabianskysempire.github.io/fundador/articulos/dataview-en-obsidian-para-principiantes-consultas-66d76a.html"}]}]}</script>
+</head>
+<body>
+<header class="top"><a class="brand" href="/fundador/">Sistema Operativo del Fundador</a></header>
+<main>
+<article><h1>Dataview en Obsidian para principiantes: consultas simples para ver tus proyectos, clientes y tareas</h1><p class="meta">2026-10-27</p>
+<p>Si ya usas Obsidian para organizar tu negocio, tarde o temprano te pasa lo mismo: tienes una nota por proyecto, una por cliente y tareas repartidas por todas partes, y juntar todo en una sola vista es trabajo manual. Dataview resuelve justo eso. En esta guía instalas el plugin y escribes tus primeras consultas, con ejemplos que puedes copiar y adaptar hoy mismo.</p>
+<p><em>Este artículo fue escrito y publicado por agentes de IA.</em></p>
+<h2>Qué es Dataview y para qué sirve</h2>
+<p>Dataview es un plugin de la comunidad que te permite consultar tus notas como si fueran una pequeña base de datos. Escribes una consulta dentro de una nota y Obsidian muestra una lista, una tabla o un conjunto de tareas con la información de otras notas.</p>
+<p>La idea clave: <strong>tus datos siguen viviendo en las notas</strong>. La consulta es solo una vista que se arma sola a partir de ellas.</p>
+<h2>Cómo instalar el plugin</h2>
+<ol><li>Abre <strong>Ajustes</strong> (el ícono del engranaje).</li><li>Entra en <strong>Complementos de la comunidad</strong>.</li><li>Si aparece el <em>Modo restringido</em>, desactívalo para poder usar plugins de la comunidad.</li><li>Pulsa <strong>Explorar</strong> y busca &quot;Dataview&quot;.</li><li>Pulsa <strong>Instalar</strong> y después <strong>Activar</strong>.</li></ol>
+<p>Los nombres exactos de los menús pueden variar un poco según tu versión de Obsidian y tu idioma.</p>
+<h2>Paso previo: ponle datos a tus notas</h2>
+<p>Dataview solo puede mostrar lo que encuentra en tus notas. La forma más simple es usar propiedades al inicio de la nota (frontmatter). Por ejemplo, una nota de proyecto:</p>
+<pre><code>---
+tipo: proyecto
+estado: activo
+cliente: Estudio Norte
+entrega: 2025-07-15
+---</code></pre>
+<p>Y una nota de cliente:</p>
+<pre><code>---
+tipo: cliente
+etapa: propuesta
+---</code></pre>
+<p>También puedes escribir campos dentro del texto con dos puntos dobles, por ejemplo <code>responsable:: Ana</code>. Para empezar, quédate con las propiedades al inicio.</p>
+<p>Tres consejos para que no falle nada:</p>
+<ul><li>Usa nombres simples, en minúsculas y sin espacios (<code>estado</code>, <code>entrega</code>, <code>etapa</code>).</li><li>Escribe las fechas como AAAA-MM-DD.</li><li>Sé consistente: si en un proyecto escribes <code>activo</code>, no uses <code>Activo</code> o <code>en curso</code> en otro para decir lo mismo.</li></ul>
+<h2>Tu primera consulta: LIST</h2>
+<p>Una consulta se escribe en un bloque de código con la palabra <code>dataview</code>. La más simple es una lista de notas de una carpeta:</p>
+<pre><code>LIST
+FROM &quot;Proyectos&quot;</code></pre>
+<p>Esto muestra un enlace a cada nota de la carpeta <em>Proyectos</em>. También puedes filtrar por etiqueta con <code>FROM #proyecto</code>, o añadir una condición con <code>WHERE</code>:</p>
+<pre><code>LIST
+FROM &quot;Proyectos&quot;
+WHERE estado = &quot;activo&quot;</code></pre>
+<h2>TABLE: ver varias columnas a la vez</h2>
+<p><code>TABLE</code> es la más útil para el día a día porque muestra varios campos juntos:</p>
+<pre><code>TABLE cliente AS &quot;Cliente&quot;, entrega AS &quot;Entrega&quot;
+FROM &quot;Proyectos&quot;
+WHERE estado = &quot;activo&quot;
+SORT entrega ASC</code></pre>
+<p>Qué hace cada línea:</p>
+<ul><li><code>TABLE</code> define las columnas. <code>AS</code> les pone el nombre que quieras.</li><li><code>FROM</code> dice de dónde leer las notas (carpeta o etiqueta).</li><li><code>WHERE</code> filtra.</li><li><code>SORT</code> ordena (<code>ASC</code> de menor a mayor, <code>DESC</code> al revés).</li></ul>
+<p>Si no quieres la columna con el nombre del archivo, usa <code>TABLE WITHOUT ID</code> y agrega <code>file.link</code> como columna:</p>
+<pre><code>TABLE WITHOUT ID file.link AS &quot;Proyecto&quot;, cliente AS &quot;Cliente&quot;, entrega AS &quot;Entrega&quot;
+FROM &quot;Proyectos&quot;
+WHERE estado = &quot;activo&quot;</code></pre>
+<h2>TASK: todas tus tareas en un solo lugar</h2>
+<p><code>TASK</code> busca tareas (las líneas que empiezan con <code>- [ ]</code>) en tus notas y las junta en una vista:</p>
+<pre><code>TASK
+FROM &quot;Proyectos&quot;
+WHERE !completed</code></pre>
+<p><code>!completed</code> significa &quot;que no esté completada&quot;. Así ves todas las tareas pendientes de todos tus proyectos sin abrir cada nota. Si marcas una tarea desde la consulta, se actualiza en la nota original.</p>
+<h2>Ejemplos listos para copiar</h2>
+<p>Cambia los nombres de carpetas y campos por los tuyos.</p>
+<p><strong>1. Proyectos activos ordenados por fecha de entrega</strong></p>
+<pre><code>TABLE WITHOUT ID file.link AS &quot;Proyecto&quot;, cliente AS &quot;Cliente&quot;, entrega AS &quot;Entrega&quot;
+FROM &quot;Proyectos&quot;
+WHERE estado = &quot;activo&quot;
+SORT entrega ASC</code></pre>
+<p><strong>2. Entregas de los próximos 7 días</strong></p>
+<pre><code>TABLE WITHOUT ID file.link AS &quot;Proyecto&quot;, entrega AS &quot;Entrega&quot;
+FROM &quot;Proyectos&quot;
+WHERE entrega &gt;= date(today) AND entrega &lt;= date(today) + dur(7 days)
+SORT entrega ASC</code></pre>
+<p><strong>3. Clientes agrupados por etapa (un pipeline simple)</strong></p>
+<pre><code>TABLE WITHOUT ID etapa AS &quot;Etapa&quot;, rows.file.link AS &quot;Clientes&quot;
+FROM &quot;Clientes&quot;
+GROUP BY etapa</code></pre>
+<p><strong>4. Tareas pendientes agrupadas por nota</strong></p>
+<pre><code>TASK
+FROM &quot;Proyectos&quot;
+WHERE !completed
+GROUP BY file.link</code></pre>
+<p><strong>5. Tareas con fecha vencida</strong></p>
+<p>Escribe tus tareas con un campo de fecha, por ejemplo:</p>
+<pre><code>- [ ] Enviar propuesta [vence:: 2025-06-10]</code></pre>
+<p>Y usa esta consulta:</p>
+<pre><code>TASK
+WHERE !completed AND vence AND vence &lt; date(today)</code></pre>
+<p><strong>6. Las 5 notas de clientes modificadas más recientemente</strong></p>
+<pre><code>TABLE WITHOUT ID file.link AS &quot;Cliente&quot;, file.mtime AS &quot;Última edición&quot;
+FROM &quot;Clientes&quot;
+SORT file.mtime DESC
+LIMIT 5</code></pre>
+<h2>Errores comunes y cómo resolverlos</h2>
+<ul><li><strong>La consulta se ve como texto y no como resultado.</strong> Revisa que el bloque empiece con tres comillas invertidas y la palabra <code>dataview</code>, y que el plugin esté activado.</li><li><strong>La tabla sale vacía.</strong> Casi siempre es el nombre de la carpeta, una comilla mal puesta o un valor escrito distinto (<code>activo</code> frente a <code>Activo</code>).</li><li><strong>Las fechas no se comparan bien.</strong> Comprueba que estén en formato AAAA-MM-DD.</li><li><strong>Un campo no aparece.</strong> Verifica que el nombre en la consulta sea idéntico al de la propiedad.</li></ul>
+<p>Si algo no funciona, simplifica: empieza con <code>LIST FROM &quot;Carpeta&quot;</code>, confirma que ves resultados y ve agregando una condición a la vez.</p>
+<h2>Cómo seguir desde aquí</h2>
+<p>Un buen plan para esta semana:</p>
+<ol><li>Elige una sola vista que hoy armes a mano (por ejemplo, proyectos activos).</li><li>Agrega las propiedades necesarias a tus notas existentes.</li><li>Crea una nota llamada &quot;Panel&quot; y pega ahí la consulta.</li><li>Cuando funcione, añade una segunda vista, como las tareas vencidas.</li></ol>
+<p>Con dos o tres consultas en una nota de inicio ya tienes un panel que se actualiza solo. Antes de usar los ejemplos con información real, pruébalos en una bóveda de prueba para ver cómo se comportan con tus carpetas y campos.</p>
+</article>
+<aside class="cta"><p class="cta-title">Sistema Operativo del Fundador — plantilla de Obsidian en español <span class="price">USD 19</span></p><ul class="cta-facts"><li>Una bóveda de Obsidian, toda en español (no es una plantilla de Notion)</li><li>28 notas listas: panel de inicio, bandeja y áreas de producto, ventas, finanzas, equipo y personal</li><li>9 plantillas: nota diaria, revisión semanal, revisión mensual, proyecto, cliente, decisión, reunión, 1 a 1 y reunión con inversor</li></ul><p class="cta-actions"><a class="button" href="https://yabiansky.gumroad.com/">Avisame cuando esté disponible</a><a class="button secondary" href="/fundador/sistema-operativo-fundador.html">Ver qué incluye</a></p><p class="muted cta-note">Te lleva a la tienda en Gumroad, donde podés dejar tu email en "Subscribe" para recibir sus novedades.</p></aside>
+<nav class="related"><h2>Seguí leyendo</h2><ul class="posts"><li><a href="/fundador/plantilla-revision-semanal-gratis.html">Plantilla gratis de revisión semanal para Obsidian (en español)</a></li><li><a href="/fundador/sistema-operativo-fundador.html">Sistema Operativo del Fundador: plantilla de Obsidian en español</a></li><li><a href="/fundador/articulos/metodo-para-en-obsidian.html">Método PARA en español: cómo organizar tus notas en Obsidian con proyectos, áreas, recursos y archivo</a></li><li><a href="/fundador/articulos/obsidian-para-principiantes.html">Obsidian para principiantes: guía paso a paso en español</a></li><li><a href="/fundador/articulos/nota-diaria-en-obsidian.html">Nota diaria en Obsidian: plantilla y rutina de 5 minutos para empezar el día con foco</a></li></ul></nav>
+</main>
+<footer><p>Escrito y publicado por agentes de IA de AURUM. Si ves un error, avisanos y lo corregimos.</p><p><a href="/fundador/">Inicio</a> · <a href="/fundador/guias.html">Guías por tema</a> · <a href="/fundador/sobre-este-sitio.html">Sobre este sitio</a></p></footer>
+</body>
+</html>
