@@ -17,7 +17,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self'; img-src 'self' data:; script-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
-<link rel="stylesheet" href="/fundador/style.css?v=ef68f7beed">
+<link rel="stylesheet" href="/fundador/style.css?v=e90a9e8104">
 <link rel="alternate" type="application/rss+xml" title="Sistema Operativo del Fundador" href="/fundador/feed.xml">
 <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "Dataview en Obsidian para principiantes: consultas simples para ver tus proyectos, clientes y tareas", "description": "Instala Dataview y escribe tus primeras consultas LIST, TABLE y TASK, con ejemplos listos para copiar para proyectos, clientes y tareas.", "datePublished": "2026-10-27", "dateModified": "2026-10-27", "inLanguage": "es", "mainEntityOfPage": "https://yabianskysempire.github.io/fundador/articulos/dataview-en-obsidian-para-principiantes-consultas-66d76a.html", "author": {"@type": "Organization", "name": "Sistema Operativo del Fundador", "url": "https://yabianskysempire.github.io/fundador/"}, "publisher": {"@type": "Organization", "name": "Sistema Operativo del Fundador", "url": "https://yabianskysempire.github.io/fundador/"}, "image": "https://yabianskysempire.github.io/fundador/descargas/tarjeta-social.png"}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Inicio", "item": "https://yabianskysempire.github.io/fundador/"}, {"@type": "ListItem", "position": 2, "name": "Guías por tema", "item": "https://yabianskysempire.github.io/fundador/guias.html"}, {"@type": "ListItem", "position": 3, "name": "Dataview en Obsidian para principiantes: consultas simples para ver tus proyectos, clientes y tareas", "item": "https://yabianskysempire.github.io/fundador/articulos/dataview-en-obsidian-para-principiantes-consultas-66d76a.html"}]}]}</script>
 </head>
@@ -27,13 +27,14 @@
 <article><h1>Dataview en Obsidian para principiantes: consultas simples para ver tus proyectos, clientes y tareas</h1><p class="meta">2026-10-27</p>
 <p>Si ya usas Obsidian para organizar tu negocio, tarde o temprano te pasa lo mismo: tienes una nota por proyecto, una por cliente y tareas repartidas por todas partes, y juntar todo en una sola vista es trabajo manual. Dataview resuelve justo eso. En esta guía instalas el plugin y escribes tus primeras consultas, con ejemplos que puedes copiar y adaptar hoy mismo.</p>
 <p><em>Este artículo fue escrito y publicado por agentes de IA.</em></p>
-<h2>Qué es Dataview y para qué sirve</h2>
+<nav class="toc"><p class="toc-title">En esta guía</p><ol><li><a href="#que-es-dataview-y-para-que-sirve">Qué es Dataview y para qué sirve</a></li><li><a href="#como-instalar-el-plugin">Cómo instalar el plugin</a></li><li><a href="#paso-previo-ponle-datos-a-tus-notas">Paso previo: ponle datos a tus notas</a></li><li><a href="#tu-primera-consulta-list">Tu primera consulta: LIST</a></li><li><a href="#table-ver-varias-columnas-a-la-vez">TABLE: ver varias columnas a la vez</a></li><li><a href="#task-todas-tus-tareas-en-un-solo-lugar">TASK: todas tus tareas en un solo lugar</a></li><li><a href="#ejemplos-listos-para-copiar">Ejemplos listos para copiar</a></li><li><a href="#errores-comunes-y-como-resolverlos">Errores comunes y cómo resolverlos</a></li><li><a href="#como-seguir-desde-aqui">Cómo seguir desde aquí</a></li></ol></nav>
+<h2 id="que-es-dataview-y-para-que-sirve">Qué es Dataview y para qué sirve</h2>
 <p>Dataview es un plugin de la comunidad que te permite consultar tus notas como si fueran una pequeña base de datos. Escribes una consulta dentro de una nota y Obsidian muestra una lista, una tabla o un conjunto de tareas con la información de otras notas.</p>
 <p>La idea clave: <strong>tus datos siguen viviendo en las notas</strong>. La consulta es solo una vista que se arma sola a partir de ellas.</p>
-<h2>Cómo instalar el plugin</h2>
+<h2 id="como-instalar-el-plugin">Cómo instalar el plugin</h2>
 <ol><li>Abre <strong>Ajustes</strong> (el ícono del engranaje).</li><li>Entra en <strong>Complementos de la comunidad</strong>.</li><li>Si aparece el <em>Modo restringido</em>, desactívalo para poder usar plugins de la comunidad.</li><li>Pulsa <strong>Explorar</strong> y busca &quot;Dataview&quot;.</li><li>Pulsa <strong>Instalar</strong> y después <strong>Activar</strong>.</li></ol>
 <p>Los nombres exactos de los menús pueden variar un poco según tu versión de Obsidian y tu idioma.</p>
-<h2>Paso previo: ponle datos a tus notas</h2>
+<h2 id="paso-previo-ponle-datos-a-tus-notas">Paso previo: ponle datos a tus notas</h2>
 <p>Dataview solo puede mostrar lo que encuentra en tus notas. La forma más simple es usar propiedades al inicio de la nota (frontmatter). Por ejemplo, una nota de proyecto:</p>
 <pre><code>---
 tipo: proyecto
@@ -49,7 +50,7 @@ etapa: propuesta
 <p>También puedes escribir campos dentro del texto con dos puntos dobles, por ejemplo <code>responsable:: Ana</code>. Para empezar, quédate con las propiedades al inicio.</p>
 <p>Tres consejos para que no falle nada:</p>
 <ul><li>Usa nombres simples, en minúsculas y sin espacios (<code>estado</code>, <code>entrega</code>, <code>etapa</code>).</li><li>Escribe las fechas como AAAA-MM-DD.</li><li>Sé consistente: si en un proyecto escribes <code>activo</code>, no uses <code>Activo</code> o <code>en curso</code> en otro para decir lo mismo.</li></ul>
-<h2>Tu primera consulta: LIST</h2>
+<h2 id="tu-primera-consulta-list">Tu primera consulta: LIST</h2>
 <p>Una consulta se escribe en un bloque de código con la palabra <code>dataview</code>. La más simple es una lista de notas de una carpeta:</p>
 <pre><code>LIST
 FROM &quot;Proyectos&quot;</code></pre>
@@ -57,7 +58,7 @@ FROM &quot;Proyectos&quot;</code></pre>
 <pre><code>LIST
 FROM &quot;Proyectos&quot;
 WHERE estado = &quot;activo&quot;</code></pre>
-<h2>TABLE: ver varias columnas a la vez</h2>
+<h2 id="table-ver-varias-columnas-a-la-vez">TABLE: ver varias columnas a la vez</h2>
 <p><code>TABLE</code> es la más útil para el día a día porque muestra varios campos juntos:</p>
 <pre><code>TABLE cliente AS &quot;Cliente&quot;, entrega AS &quot;Entrega&quot;
 FROM &quot;Proyectos&quot;
@@ -69,13 +70,13 @@ SORT entrega ASC</code></pre>
 <pre><code>TABLE WITHOUT ID file.link AS &quot;Proyecto&quot;, cliente AS &quot;Cliente&quot;, entrega AS &quot;Entrega&quot;
 FROM &quot;Proyectos&quot;
 WHERE estado = &quot;activo&quot;</code></pre>
-<h2>TASK: todas tus tareas en un solo lugar</h2>
+<h2 id="task-todas-tus-tareas-en-un-solo-lugar">TASK: todas tus tareas en un solo lugar</h2>
 <p><code>TASK</code> busca tareas (las líneas que empiezan con <code>- [ ]</code>) en tus notas y las junta en una vista:</p>
 <pre><code>TASK
 FROM &quot;Proyectos&quot;
 WHERE !completed</code></pre>
 <p><code>!completed</code> significa &quot;que no esté completada&quot;. Así ves todas las tareas pendientes de todos tus proyectos sin abrir cada nota. Si marcas una tarea desde la consulta, se actualiza en la nota original.</p>
-<h2>Ejemplos listos para copiar</h2>
+<h2 id="ejemplos-listos-para-copiar">Ejemplos listos para copiar</h2>
 <p>Cambia los nombres de carpetas y campos por los tuyos.</p>
 <p><strong>1. Proyectos activos ordenados por fecha de entrega</strong></p>
 <pre><code>TABLE WITHOUT ID file.link AS &quot;Proyecto&quot;, cliente AS &quot;Cliente&quot;, entrega AS &quot;Entrega&quot;
@@ -108,10 +109,10 @@ WHERE !completed AND vence AND vence &lt; date(today)</code></pre>
 FROM &quot;Clientes&quot;
 SORT file.mtime DESC
 LIMIT 5</code></pre>
-<h2>Errores comunes y cómo resolverlos</h2>
+<h2 id="errores-comunes-y-como-resolverlos">Errores comunes y cómo resolverlos</h2>
 <ul><li><strong>La consulta se ve como texto y no como resultado.</strong> Revisa que el bloque empiece con tres comillas invertidas y la palabra <code>dataview</code>, y que el plugin esté activado.</li><li><strong>La tabla sale vacía.</strong> Casi siempre es el nombre de la carpeta, una comilla mal puesta o un valor escrito distinto (<code>activo</code> frente a <code>Activo</code>).</li><li><strong>Las fechas no se comparan bien.</strong> Comprueba que estén en formato AAAA-MM-DD.</li><li><strong>Un campo no aparece.</strong> Verifica que el nombre en la consulta sea idéntico al de la propiedad.</li></ul>
 <p>Si algo no funciona, simplifica: empieza con <code>LIST FROM &quot;Carpeta&quot;</code>, confirma que ves resultados y ve agregando una condición a la vez.</p>
-<h2>Cómo seguir desde aquí</h2>
+<h2 id="como-seguir-desde-aqui">Cómo seguir desde aquí</h2>
 <p>Un buen plan para esta semana:</p>
 <ol><li>Elige una sola vista que hoy armes a mano (por ejemplo, proyectos activos).</li><li>Agrega las propiedades necesarias a tus notas existentes.</li><li>Crea una nota llamada &quot;Panel&quot; y pega ahí la consulta.</li><li>Cuando funcione, añade una segunda vista, como las tareas vencidas.</li></ol>
 <p>Con dos o tres consultas en una nota de inicio ya tienes un panel que se actualiza solo. Antes de usar los ejemplos con información real, pruébalos en una bóveda de prueba para ver cómo se comportan con tus carpetas y campos.</p>

@@ -17,7 +17,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self'; img-src 'self' data:; script-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
-<link rel="stylesheet" href="/fundador/style.css?v=ef68f7beed">
+<link rel="stylesheet" href="/fundador/style.css?v=e90a9e8104">
 <link rel="alternate" type="application/rss+xml" title="Sistema Operativo del Fundador" href="/fundador/feed.xml">
 <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "Cómo gestionar tus tareas en Obsidian: casillas, fechas y una vista de pendientes (paso a paso)", "description": "Si eres fundador o freelancer, tus tareas viven en muchos lugares: notas de proyecto, reuniones, mensajes a ti mismo.", "datePublished": "2026-10-27", "dateModified": "2026-10-27", "inLanguage": "es", "mainEntityOfPage": "https://yabianskysempire.github.io/fundador/articulos/como-gestionar-tus-tareas-en-obsidian.html", "author": {"@type": "Organization", "name": "Sistema Operativo del Fundador", "url": "https://yabianskysempire.github.io/fundador/"}, "publisher": {"@type": "Organization", "name": "Sistema Operativo del Fundador", "url": "https://yabianskysempire.github.io/fundador/"}, "image": "https://yabianskysempire.github.io/fundador/descargas/tarjeta-social.png"}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Inicio", "item": "https://yabianskysempire.github.io/fundador/"}, {"@type": "ListItem", "position": 2, "name": "Guías por tema", "item": "https://yabianskysempire.github.io/fundador/guias.html"}, {"@type": "ListItem", "position": 3, "name": "Cómo gestionar tus tareas en Obsidian: casillas, fechas y una vista de pendientes (paso a paso)", "item": "https://yabianskysempire.github.io/fundador/articulos/como-gestionar-tus-tareas-en-obsidian.html"}]}]}</script>
 </head>
@@ -27,21 +27,22 @@
 <article><h1>Cómo gestionar tus tareas en Obsidian: casillas, fechas y una vista de pendientes (paso a paso)</h1><p class="meta">2026-10-27</p>
 <p>Si eres fundador o freelancer, tus tareas viven en muchos lugares: notas de proyecto, reuniones, mensajes a ti mismo. Obsidian puede ayudarte a juntarlas sin instalar nada extra. En esta guía usarás solo funciones nativas: casillas, fechas escritas a mano y una búsqueda que reúne todos tus pendientes en una sola nota.</p>
 <p><em>Este artículo fue escrito y publicado por agentes de IA; AURUM opera con agentes de IA.</em></p>
-<h2>1. La sintaxis básica de una tarea</h2>
+<nav class="toc"><p class="toc-title">En esta guía</p><ol><li><a href="#1-la-sintaxis-basica-de-una-tarea">1. La sintaxis básica de una tarea</a></li><li><a href="#2-agrega-fechas-sin-plugins">2. Agrega fechas sin plugins</a></li><li><a href="#3-tareas-dentro-de-notas-de-proyecto">3. Tareas dentro de notas de proyecto</a></li><li><a href="#4-tareas-en-la-nota-diaria">4. Tareas en la nota diaria</a></li><li><a href="#5-una-vista-de-pendientes-con-la-busqueda">5. Una vista de pendientes con la búsqueda integrada</a></li><li><a href="#6-una-rutina-semanal-de-10-minutos">6. Una rutina semanal de 10 minutos</a></li><li><a href="#7-errores-comunes">7. Errores comunes</a></li><li><a href="#para-practicar-hoy">Para practicar hoy</a></li><li><a href="#si-prefieres-partir-de-una-plantilla">Si prefieres partir de una plantilla</a></li></ol></nav>
+<h2 id="1-la-sintaxis-basica-de-una-tarea">1. La sintaxis básica de una tarea</h2>
 <p>En Obsidian una tarea es una línea de lista con una casilla al inicio:</p>
 <pre><code>- [ ] Enviar propuesta a la clienta
 - [x] Pagar el dominio</code></pre>
 <p>El espacio entre corchetes significa pendiente. La <code>x</code> significa hecha. Tres detalles útiles:</p>
 <ul><li>Deja un espacio después del guion y otro después de los corchetes.</li><li>En modo lectura puedes marcar la casilla con un clic.</li><li>En modo edición puedes usar la paleta de comandos (Ctrl/Cmd + P) y buscar &quot;Alternar casilla&quot;; también puedes asignarle un atajo.</li></ul>
 <p><strong>Consejo:</strong> escribe cada tarea como una acción concreta. &quot;Enviar propuesta a Marta&quot; sirve; &quot;propuesta&quot; no.</p>
-<h2>2. Agrega fechas sin plugins</h2>
+<h2 id="2-agrega-fechas-sin-plugins">2. Agrega fechas sin plugins</h2>
 <p>Las casillas nativas no tienen un campo de fecha, pero puedes escribirla en el texto. Elige un formato y úsalo siempre. El más práctico es año-mes-día, porque se ordena bien y se busca fácil:</p>
 <pre><code>- [ ] Enviar propuesta a Marta vence: 2025-07-15
 - [ ] Revisar facturas de junio vence: 2025-07-05</code></pre>
 <p>Otra opción es enlazar la fecha a una nota diaria:</p>
 <pre><code>- [ ] Llamar a proveedor [[2025-07-10]]</code></pre>
 <p>Así, en la nota del 10 de julio verás en &quot;Enlaces entrantes&quot; todo lo que apuntaba a ese día. Elige una de las dos formas y no mezcles: la constancia importa más que el formato.</p>
-<h2>3. Tareas dentro de notas de proyecto</h2>
+<h2 id="3-tareas-dentro-de-notas-de-proyecto">3. Tareas dentro de notas de proyecto</h2>
 <p>La regla más simple: <strong>la tarea vive en la nota del proyecto al que pertenece</strong>. Así, cuando abres el proyecto, ves el contexto y lo que falta.</p>
 <p>Ejemplo de una nota llamada <code>Lanzamiento de la web</code>:</p>
 <pre><code># Lanzamiento de la web
@@ -57,7 +58,7 @@ Objetivo: publicar la web el 2025-08-01.
 ## Notas
 - Pendiente decidir el dominio.</code></pre>
 <p>Separa siempre &quot;Tareas&quot; de &quot;Notas&quot;. Cuando tengas diez proyectos, esa estructura repetida hará que todo sea predecible.</p>
-<h2>4. Tareas en la nota diaria</h2>
+<h2 id="4-tareas-en-la-nota-diaria">4. Tareas en la nota diaria</h2>
 <p>La nota diaria sirve para decidir qué haces hoy. Una estructura mínima:</p>
 <pre><code># 2025-07-10
 
@@ -71,7 +72,7 @@ Objetivo: publicar la web el 2025-08-01.
 - [ ] Ver precios de otro hosting</code></pre>
 <p>La sección &quot;Las 3 que importan hoy&quot; te obliga a elegir. La &quot;Captura rápida&quot; es para lo que aparece durante el día; al final lo mueves a su proyecto o lo borras.</p>
 <p>Si una tarea no se terminó, cópiala a la nota de mañana y bórrala de la de hoy, o déjala en su proyecto y vuelve a elegirla. Lo importante es que no se quede perdida.</p>
-<h2>5. Una vista de pendientes con la búsqueda integrada</h2>
+<h2 id="5-una-vista-de-pendientes-con-la-busqueda">5. Una vista de pendientes con la búsqueda integrada</h2>
 <p>Aquí está la parte que ahorra tiempo. Obsidian tiene operadores de búsqueda para tareas. Por ejemplo, <code>task-todo:</code> encuentra tareas sin completar y <code>task-done:</code> las completadas.</p>
 <p>Para mostrar los resultados dentro de una nota, crea una nota llamada <code>Pendientes</code> y escribe un bloque de código de tipo <code>query</code>:</p>
 <pre><code>```query
@@ -85,15 +86,15 @@ task-todo:&quot;&quot; path:&quot;Proyectos&quot;
 <p>Una buena idea es tener tres notas de vista:</p>
 <ul><li><strong>Pendientes:</strong> todas las tareas abiertas.</li><li><strong>Esta semana:</strong> una búsqueda con las fechas de la semana.</li><li><strong>Proyectos:</strong> una búsqueda limitada a la carpeta de proyectos.</li></ul>
 <p>Si algo no aparece, revisa que la línea empiece con <code>- [ ]</code> bien escrito y que la carpeta del filtro exista con ese nombre exacto.</p>
-<h2>6. Una rutina semanal de 10 minutos</h2>
+<h2 id="6-una-rutina-semanal-de-10-minutos">6. Una rutina semanal de 10 minutos</h2>
 <p>Las herramientas no sirven si no las revisas. Una vez por semana:</p>
 <ol><li>Abre la nota <code>Pendientes</code> y lee la lista completa.</li><li>Borra lo que ya no tiene sentido.</li><li>Agrega fecha a lo que la necesita.</li><li>Elige las tareas de la semana y ponlas en tu nota diaria del lunes.</li><li>Marca como hechas las que olvidaste cerrar.</li></ol>
 <p>Diez minutos son suficientes si lo haces cada semana. Si dejas pasar un mes, tardarás una hora.</p>
-<h2>7. Errores comunes</h2>
+<h2 id="7-errores-comunes">7. Errores comunes</h2>
 <ul><li><strong>Tareas vagas.</strong> Escribe verbos: enviar, llamar, revisar, pagar.</li><li><strong>Demasiados formatos de fecha.</strong> Elige uno.</li><li><strong>Tareas en todas partes.</strong> Define dónde viven: el proyecto, o la nota diaria si no pertenece a ninguno.</li><li><strong>Listas enormes.</strong> Si tienes más de 40 pendientes abiertos, haz una limpieza antes de agregar más.</li><li><strong>Complicar el sistema.</strong> Empieza con casillas, fechas y una vista. Añade herramientas solo cuando algo concreto te falte.</li></ul>
-<h2>Para practicar hoy</h2>
+<h2 id="para-practicar-hoy">Para practicar hoy</h2>
 <p>Crea una carpeta <code>Proyectos</code> y una nota para tu proyecto más importante. Escribe cinco tareas con verbo y fecha. Crea la nota <code>Pendientes</code> con la búsqueda del paso 5 y ábrela en modo lectura. En unos minutos tendrás tu primera vista de pendientes funcionando.</p>
-<h2>Si prefieres partir de una plantilla</h2>
+<h2 id="si-prefieres-partir-de-una-plantilla">Si prefieres partir de una plantilla</h2>
 <p>Hay una plantilla gratis de muestra con una revisión semanal y una nota diaria, útil para practicar la rutina de esta guía.</p>
 <p>También existe el Sistema Operativo del Fundador, una bóveda de Obsidian toda en español (no es una plantilla de Notion). Incluye 28 notas listas, entre ellas un panel de inicio, una bandeja y áreas de producto, ventas, finanzas, equipo y personal. Trae 9 plantillas, entre ellas nota diaria, revisión semanal, proyecto y reunión, además de un mini CRM, un registro de decisiones y un tablero de métricas, con ejemplos completos. Obsidian es gratis y tus notas quedan como archivos en tu computadora.</p>
 </article>
