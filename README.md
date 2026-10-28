@@ -1,6 +1,6 @@
 # Sistema Operativo del Fundador
 
-Guías prácticas y plantillas en español para fundadores que quieren ordenar su negocio sin apps caras.
+Guías prácticas y plantillas de Obsidian en español para fundadores que quieren ordenar su negocio sin apps caras.
 
 **Sitio:** https://yabianskysempire.github.io/fundador/
 
