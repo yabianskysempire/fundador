@@ -31,6 +31,7 @@ Precio: USD 19
 - [Revisión mensual para fundadores: qué mirar a fin de mes](https://yabianskysempire.github.io/fundador/articulos/revision-mensual-para-fundadores.html)
 - [Revisión anual para fundadores: cómo cerrar el año y planificar el siguiente \(paso a paso, en Obsidian\)](https://yabianskysempire.github.io/fundador/articulos/revision-anual-para-fundadores.html)
 - [Reunión 1 a 1 con tu equipo: plantilla y preguntas](https://yabianskysempire.github.io/fundador/articulos/reunion-1-a-1-plantilla-y-preguntas.html)
+- [Retrospectiva de proyecto: cómo aprender de lo que salió bien y mal \(paso a paso, con plantilla en Obsidian\)](https://yabianskysempire.github.io/fundador/articulos/retrospectiva-de-proyecto.html)
 - [Markdown para Obsidian: guía rápida de formato en 10 minutos](https://yabianskysempire.github.io/fundador/articulos/markdown-para-obsidian.html)
 - [Lean Canvas en español: cómo completarlo en una página y mantenerlo actualizado en Obsidian](https://yabianskysempire.github.io/fundador/articulos/lean-canvas-en-espanol.html)
 - [Enlaces internos en Obsidian: cómo conectar tus notas](https://yabianskysempire.github.io/fundador/articulos/enlaces-internos-en-obsidian.html)
