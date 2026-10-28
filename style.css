@@ -12,6 +12,7 @@ code{background:var(--panel);border:1px solid var(--line);border-radius:4px;padd
 .cta{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:20px;margin:32px 0}
 .cta-title{margin:0 0 12px;font-weight:700;font-size:1.1rem}.price{display:inline-block;margin-left:8px;padding:2px 10px;border-radius:999px;background:var(--accent);color:#fff;font-size:.85rem;vertical-align:middle}
 .cta-facts{margin:0 0 16px;padding-left:20px;color:var(--muted)}.cta-actions{margin:0;display:flex;flex-wrap:wrap;gap:10px}
+.cta-free{margin:14px 0 0;padding-top:12px;border-top:1px solid var(--line);font-size:.95rem}
 .cta.compact{padding:14px 16px;margin:16px 0 24px}.cta.compact .cta-actions{align-items:center}.cta.compact .price{margin-left:0;font-size:1rem}
 .button-row{margin:24px 0}
 .button.secondary{background:transparent;color:var(--accent);border:1px solid var(--accent)}
