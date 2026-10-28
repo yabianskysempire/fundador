@@ -28,6 +28,7 @@ Precio: USD 19
 
 ## Artículos
 
+- [Revisión mensual para fundadores: qué mirar a fin de mes](https://yabianskysempire.github.io/fundador/articulos/revision-mensual-para-fundadores.html)
 - [Reunión 1 a 1 con tu equipo: plantilla y preguntas](https://yabianskysempire.github.io/fundador/articulos/reunion-1-a-1-plantilla-y-preguntas.html)
 - [Enlaces internos en Obsidian: cómo conectar tus notas](https://yabianskysempire.github.io/fundador/articulos/enlaces-internos-en-obsidian.html)
 - [Tablero de métricas para una startup temprana: qué medir cada semana y cómo armarlo](https://yabianskysempire.github.io/fundador/articulos/tablero-de-metricas-startup.html)
