@@ -35,6 +35,7 @@ Precio: USD 19
 - [Markdown para Obsidian: guía rápida de formato en 10 minutos](https://yabianskysempire.github.io/fundador/articulos/markdown-para-obsidian.html)
 - [Lean Canvas en español: cómo completarlo en una página y mantenerlo actualizado en Obsidian](https://yabianskysempire.github.io/fundador/articulos/lean-canvas-en-espanol.html)
 - [Enlaces internos en Obsidian: cómo conectar tus notas](https://yabianskysempire.github.io/fundador/articulos/enlaces-internos-en-obsidian.html)
+- [Cómo delegar tareas en un equipo pequeño: qué delegar, cómo explicarlo y cómo hacer seguimiento](https://yabianskysempire.github.io/fundador/articulos/como-delegar-tareas-en-un-equipo-pequeno.html)
 - [Tablero de métricas para una startup temprana: qué medir cada semana y cómo armarlo](https://yabianskysempire.github.io/fundador/articulos/tablero-de-metricas-startup.html)
 - [Nota diaria en Obsidian: plantilla y rutina de 5 minutos para empezar el día con foco](https://yabianskysempire.github.io/fundador/articulos/nota-diaria-en-obsidian.html)
 - [Método PARA en español: cómo organizar tus notas en Obsidian con proyectos, áreas, recursos y archivo](https://yabianskysempire.github.io/fundador/articulos/metodo-para-en-obsidian.html)
