@@ -33,6 +33,7 @@ Precio: USD 19
 - [Entrevistas con clientes \(customer discovery\): guía de preguntas y cómo registrar lo que aprendés en Obsidian](https://yabianskysempire.github.io/fundador/articulos/entrevistas-con-clientes-customer-discovery.html)
 - [Cómo priorizar tareas cuando todo es urgente](https://yabianskysempire.github.io/fundador/articulos/como-priorizar-tareas-cuando-todo-es-urgente.html)
 - [Cómo calcular el runway de tu startup: fórmula y ejemplo](https://yabianskysempire.github.io/fundador/articulos/como-calcular-el-runway-de-tu-startup.html)
+- [Calendario de contenidos para un negocio pequeño: cómo planificar tus publicaciones del mes en Obsidian](https://yabianskysempire.github.io/fundador/articulos/calendario-de-contenidos-para-un-negocio-pequeno.html)
 - [Bandeja de entrada en Obsidian: captura sin desordenar](https://yabianskysempire.github.io/fundador/articulos/bandeja-de-entrada-en-obsidian.html)
 - [Revisión mensual para fundadores: qué mirar a fin de mes](https://yabianskysempire.github.io/fundador/articulos/revision-mensual-para-fundadores.html)
 - [Revisión anual para fundadores: cómo cerrar el año y planificar el siguiente \(paso a paso, en Obsidian\)](https://yabianskysempire.github.io/fundador/articulos/revision-anual-para-fundadores.html)
