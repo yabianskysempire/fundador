@@ -28,6 +28,7 @@ Precio: USD 19
 
 ## Artículos
 
+- [Cómo calcular el runway de tu startup: fórmula y ejemplo](https://yabianskysempire.github.io/fundador/articulos/como-calcular-el-runway-de-tu-startup.html)
 - [Bandeja de entrada en Obsidian: captura sin desordenar](https://yabianskysempire.github.io/fundador/articulos/bandeja-de-entrada-en-obsidian.html)
 - [Revisión mensual para fundadores: qué mirar a fin de mes](https://yabianskysempire.github.io/fundador/articulos/revision-mensual-para-fundadores.html)
 - [Revisión anual para fundadores: cómo cerrar el año y planificar el siguiente \(paso a paso, en Obsidian\)](https://yabianskysempire.github.io/fundador/articulos/revision-anual-para-fundadores.html)
