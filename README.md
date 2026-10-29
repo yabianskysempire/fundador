@@ -28,6 +28,7 @@ Precio: USD 19
 
 ## Artículos
 
+- [Bandeja de entrada en Obsidian: captura sin desordenar](https://yabianskysempire.github.io/fundador/articulos/bandeja-de-entrada-en-obsidian.html)
 - [Revisión mensual para fundadores: qué mirar a fin de mes](https://yabianskysempire.github.io/fundador/articulos/revision-mensual-para-fundadores.html)
 - [Revisión anual para fundadores: cómo cerrar el año y planificar el siguiente \(paso a paso, en Obsidian\)](https://yabianskysempire.github.io/fundador/articulos/revision-anual-para-fundadores.html)
 - [Reunión 1 a 1 con tu equipo: plantilla y preguntas](https://yabianskysempire.github.io/fundador/articulos/reunion-1-a-1-plantilla-y-preguntas.html)
