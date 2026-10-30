@@ -29,6 +29,7 @@ Precio: USD 19
 ## Artículos
 
 - [Etiquetas o carpetas en Obsidian: cuándo usar cada una](https://yabianskysempire.github.io/fundador/articulos/etiquetas-o-carpetas-en-obsidian.html)
+- [Complementos de la comunidad en Obsidian: cómo instalarlos con seguridad y cuántos necesitás realmente](https://yabianskysempire.github.io/fundador/articulos/complementos-de-la-comunidad-en-obsidian.html)
 - [Cómo preparar una reunión con inversores](https://yabianskysempire.github.io/fundador/articulos/como-preparar-una-reunion-con-inversores.html)
 - [Cómo organizar la contratación en un equipo pequeño: pipeline de candidatos en Obsidian \(paso a paso\)](https://yabianskysempire.github.io/fundador/articulos/como-organizar-la-contratacion-en-un-equipo-pequeno.html)
 - [Cómo documentar procesos en un negocio pequeño](https://yabianskysempire.github.io/fundador/articulos/como-documentar-procesos-en-un-negocio-pequeno.html)
