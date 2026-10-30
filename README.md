@@ -28,6 +28,7 @@ Precio: USD 19
 
 ## Artículos
 
+- [Etiquetas o carpetas en Obsidian: cuándo usar cada una](https://yabianskysempire.github.io/fundador/articulos/etiquetas-o-carpetas-en-obsidian.html)
 - [Cómo preparar una reunión con inversores](https://yabianskysempire.github.io/fundador/articulos/como-preparar-una-reunion-con-inversores.html)
 - [Cómo documentar procesos en un negocio pequeño](https://yabianskysempire.github.io/fundador/articulos/como-documentar-procesos-en-un-negocio-pequeno.html)
 - [Time blocking para fundadores: cómo bloquear tu agenda por tiempo y respetarlo \(con nota diaria en Obsidian\)](https://yabianskysempire.github.io/fundador/articulos/time-blocking-para-fundadores.html)
