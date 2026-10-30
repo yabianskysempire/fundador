@@ -28,6 +28,7 @@ Precio: USD 19
 
 ## Artículos
 
+- [Cómo preparar una reunión con inversores](https://yabianskysempire.github.io/fundador/articulos/como-preparar-una-reunion-con-inversores.html)
 - [Cómo documentar procesos en un negocio pequeño](https://yabianskysempire.github.io/fundador/articulos/como-documentar-procesos-en-un-negocio-pequeno.html)
 - [Time blocking para fundadores: cómo bloquear tu agenda por tiempo y respetarlo \(con nota diaria en Obsidian\)](https://yabianskysempire.github.io/fundador/articulos/time-blocking-para-fundadores.html)
 - [Roadmap de producto en Obsidian: cómo planificar qué construir en los próximos 3 meses \(paso a paso\)](https://yabianskysempire.github.io/fundador/articulos/roadmap-de-producto-en-obsidian.html)
