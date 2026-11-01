@@ -29,6 +29,7 @@ Precio: USD 19
 ## Artículos
 
 - [Plantilla de proyecto en Obsidian: cómo definir objetivo, alcance, tareas, fechas y estado en una sola nota \(paso a paso](https://yabianskysempire.github.io/fundador/articulos/plantilla-de-proyecto-en-obsidian.html)
+- [Onboarding del primer empleado: primera semana y primer mes](https://yabianskysempire.github.io/fundador/articulos/onboarding-del-primer-empleado.html)
 - [Cómo fijar el precio de tu primer producto digital](https://yabianskysempire.github.io/fundador/articulos/como-fijar-el-precio-de-un-producto-digital.html)
 - [Etiquetas o carpetas en Obsidian: cuándo usar cada una](https://yabianskysempire.github.io/fundador/articulos/etiquetas-o-carpetas-en-obsidian.html)
 - [Complementos de la comunidad en Obsidian: cómo instalarlos con seguridad y cuántos necesitás realmente](https://yabianskysempire.github.io/fundador/articulos/complementos-de-la-comunidad-en-obsidian.html)
