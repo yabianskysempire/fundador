@@ -33,6 +33,7 @@ Precio: USD 19
 - [Registro de contactos profesionales en Obsidian](https://yabianskysempire.github.io/fundador/articulos/registro-de-contactos-profesionales-en-obsidian.html)
 - [Propiedades en Obsidian: qué son y cómo usarlas](https://yabianskysempire.github.io/fundador/articulos/propiedades-en-obsidian.html)
 - [Cómo organizar proyectos y entregas siendo freelancer](https://yabianskysempire.github.io/fundador/articulos/organizar-proyectos-y-entregas-siendo-freelancer.html)
+- [Informe semanal de avances para tu equipo o socios](https://yabianskysempire.github.io/fundador/articulos/informe-semanal-de-avances-para-tu-equipo-o-socios.html)
 - [Cómo organizar las finanzas de un freelancer](https://yabianskysempire.github.io/fundador/articulos/como-organizar-las-finanzas-de-un-freelancer.html)
 - [Análisis de ventas ganadas y perdidas en Obsidian](https://yabianskysempire.github.io/fundador/articulos/analisis-de-ventas-ganadas-y-perdidas-en-obsidian.html)
 - [Agenda de reunión semanal de equipo en 30 minutos](https://yabianskysempire.github.io/fundador/articulos/agenda-de-reunion-semanal-de-equipo-en-30-minutos.html)
