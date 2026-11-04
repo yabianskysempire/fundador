@@ -28,6 +28,7 @@ Precio: USD 19
 
 ## Artículos
 
+- [Unit economics para startups tempranas con ejemplo](https://yabianskysempire.github.io/fundador/articulos/unit-economics-para-startups-tempranas-con-ejemplo.html)
 - [Seguimiento de hábitos en Obsidian con tu nota diaria](https://yabianskysempire.github.io/fundador/articulos/seguimiento-de-habitos-en-obsidian-con-tu-nota-diaria.html)
 - [Propiedades en Obsidian: qué son y cómo usarlas](https://yabianskysempire.github.io/fundador/articulos/propiedades-en-obsidian.html)
 - [Cómo organizar proyectos y entregas siendo freelancer](https://yabianskysempire.github.io/fundador/articulos/organizar-proyectos-y-entregas-siendo-freelancer.html)
