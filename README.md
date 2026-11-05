@@ -30,6 +30,7 @@ Precio: USD 19
 
 - [Plantilla de acta de reunión: qué anotar y cómo usarla](https://yabianskysempire.github.io/fundador/articulos/plantilla-de-acta-de-reunion.html)
 - [Cómo escribir una propuesta comercial \(con plantilla\)](https://yabianskysempire.github.io/fundador/articulos/como-escribir-una-propuesta-comercial.html)
+- [Cómo escribir un PRD para una startup pequeña](https://yabianskysempire.github.io/fundador/articulos/como-escribir-un-prd-para-una-startup-pequena.html)
 - [Cómo definir tus servicios como freelancer](https://yabianskysempire.github.io/fundador/articulos/como-definir-tus-servicios-como-freelancer.html)
 - [Cómo cerrar un proyecto con un cliente: checklist](https://yabianskysempire.github.io/fundador/articulos/como-cerrar-un-proyecto-con-un-cliente.html)
 - [Unit economics para startups tempranas con ejemplo](https://yabianskysempire.github.io/fundador/articulos/unit-economics-para-startups-tempranas-con-ejemplo.html)
