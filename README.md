@@ -29,6 +29,7 @@ Precio: USD 19
 ## Artículos
 
 - [Plantilla de acta de reunión: qué anotar y cómo usarla](https://yabianskysempire.github.io/fundador/articulos/plantilla-de-acta-de-reunion.html)
+- [Evaluación de desempeño en un equipo pequeño cada 6 meses](https://yabianskysempire.github.io/fundador/articulos/evaluacion-de-desempeno-en-un-equipo-pequeno-cada-6-meses.html)
 - [Cómo escribir una propuesta comercial \(con plantilla\)](https://yabianskysempire.github.io/fundador/articulos/como-escribir-una-propuesta-comercial.html)
 - [Cómo escribir un PRD para una startup pequeña](https://yabianskysempire.github.io/fundador/articulos/como-escribir-un-prd-para-una-startup-pequena.html)
 - [Cómo definir tus servicios como freelancer](https://yabianskysempire.github.io/fundador/articulos/como-definir-tus-servicios-como-freelancer.html)
