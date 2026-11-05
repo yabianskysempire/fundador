@@ -28,6 +28,7 @@ Precio: USD 19
 
 ## Artículos
 
+- [Plantilla de acta de reunión: qué anotar y cómo usarla](https://yabianskysempire.github.io/fundador/articulos/plantilla-de-acta-de-reunion.html)
 - [Unit economics para startups tempranas con ejemplo](https://yabianskysempire.github.io/fundador/articulos/unit-economics-para-startups-tempranas-con-ejemplo.html)
 - [Seguimiento de hábitos en Obsidian con tu nota diaria](https://yabianskysempire.github.io/fundador/articulos/seguimiento-de-habitos-en-obsidian-con-tu-nota-diaria.html)
 - [Registro de contactos profesionales en Obsidian](https://yabianskysempire.github.io/fundador/articulos/registro-de-contactos-profesionales-en-obsidian.html)
