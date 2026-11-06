@@ -30,6 +30,7 @@ Precio: USD 19
 
 - [Cómo repartir roles entre cofundadores](https://yabianskysempire.github.io/fundador/articulos/como-repartir-roles-entre-cofundadores.html)
 - [Cómo ordenar el correo y los mensajes de tu negocio](https://yabianskysempire.github.io/fundador/articulos/como-ordenar-el-correo-y-los-mensajes-de-tu-negocio.html)
+- [Atajos de teclado de Obsidian: los más útiles](https://yabianskysempire.github.io/fundador/articulos/atajos-de-teclado-de-obsidian.html)
 - [Plantilla de acta de reunión: qué anotar y cómo usarla](https://yabianskysempire.github.io/fundador/articulos/plantilla-de-acta-de-reunion.html)
 - [Evaluación de desempeño en un equipo pequeño cada 6 meses](https://yabianskysempire.github.io/fundador/articulos/evaluacion-de-desempeno-en-un-equipo-pequeno-cada-6-meses.html)
 - [Cómo escribir una propuesta comercial \(con plantilla\)](https://yabianskysempire.github.io/fundador/articulos/como-escribir-una-propuesta-comercial.html)
