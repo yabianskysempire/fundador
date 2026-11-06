@@ -31,6 +31,7 @@ Precio: USD 19
 - [Cómo repartir roles entre cofundadores](https://yabianskysempire.github.io/fundador/articulos/como-repartir-roles-entre-cofundadores.html)
 - [Cómo pasar de Notion a Obsidian sin perder tus notas](https://yabianskysempire.github.io/fundador/articulos/como-pasar-de-notion-a-obsidian.html)
 - [Cómo ordenar el correo y los mensajes de tu negocio](https://yabianskysempire.github.io/fundador/articulos/como-ordenar-el-correo-y-los-mensajes-de-tu-negocio.html)
+- [Cómo crear un MOC en Obsidian paso a paso](https://yabianskysempire.github.io/fundador/articulos/como-crear-un-moc-en-obsidian-paso-a-paso.html)
 - [Atajos de teclado de Obsidian: los más útiles](https://yabianskysempire.github.io/fundador/articulos/atajos-de-teclado-de-obsidian.html)
 - [Plantilla de acta de reunión: qué anotar y cómo usarla](https://yabianskysempire.github.io/fundador/articulos/plantilla-de-acta-de-reunion.html)
 - [Evaluación de desempeño en un equipo pequeño cada 6 meses](https://yabianskysempire.github.io/fundador/articulos/evaluacion-de-desempeno-en-un-equipo-pequeno-cada-6-meses.html)
