@@ -28,6 +28,7 @@ Precio: USD 19
 
 ## Artículos
 
+- [Registro de experimentos de crecimiento en Obsidian](https://yabianskysempire.github.io/fundador/articulos/registro-de-experimentos-de-crecimiento-en-obsidian.html)
 - [Primera reunión de board en una startup temprana](https://yabianskysempire.github.io/fundador/articulos/primera-reunion-de-board-en-una-startup-temprana.html)
 - [Cómo repartir roles entre cofundadores](https://yabianskysempire.github.io/fundador/articulos/como-repartir-roles-entre-cofundadores.html)
 - [Cómo pasar de Notion a Obsidian sin perder tus notas](https://yabianskysempire.github.io/fundador/articulos/como-pasar-de-notion-a-obsidian.html)
