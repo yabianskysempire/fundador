@@ -28,6 +28,7 @@ Precio: USD 19
 
 ## Artículos
 
+- [README personal del fundador en Obsidian](https://yabianskysempire.github.io/fundador/articulos/readme-personal-del-fundador-en-obsidian.html)
 - [Pipeline de ventas para un negocio pequeño](https://yabianskysempire.github.io/fundador/articulos/pipeline-de-ventas-para-un-negocio-pequeno.html)
 - [Obsidian en el celular: sincronizar tus notas sin pagar](https://yabianskysempire.github.io/fundador/articulos/obsidian-en-el-celular-sincronizar-sin-pagar.html)
 - [Diario de aprendizajes del fundador en Obsidian](https://yabianskysempire.github.io/fundador/articulos/diario-de-aprendizajes-del-fundador.html)
