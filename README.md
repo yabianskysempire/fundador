@@ -31,6 +31,7 @@ Precio: USD 19
 - [Pipeline de ventas para un negocio pequeño](https://yabianskysempire.github.io/fundador/articulos/pipeline-de-ventas-para-un-negocio-pequeno.html)
 - [Obsidian en el celular: sincronizar tus notas sin pagar](https://yabianskysempire.github.io/fundador/articulos/obsidian-en-el-celular-sincronizar-sin-pagar.html)
 - [Diario de aprendizajes del fundador en Obsidian](https://yabianskysempire.github.io/fundador/articulos/diario-de-aprendizajes-del-fundador.html)
+- [Cómo registrar y priorizar feedback de clientes en Obsidian](https://yabianskysempire.github.io/fundador/articulos/como-registrar-y-priorizar-feedback-de-clientes-en-obsidian.html)
 - [Bases en Obsidian: tablas de tus notas sin complementos](https://yabianskysempire.github.io/fundador/articulos/bases-en-obsidian.html)
 - [Registro de experimentos de crecimiento en Obsidian](https://yabianskysempire.github.io/fundador/articulos/registro-de-experimentos-de-crecimiento-en-obsidian.html)
 - [Primera reunión de board en una startup temprana](https://yabianskysempire.github.io/fundador/articulos/primera-reunion-de-board-en-una-startup-temprana.html)
