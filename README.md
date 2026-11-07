@@ -28,6 +28,7 @@ Precio: USD 19
 
 ## Artículos
 
+- [Pipeline de ventas para un negocio pequeño](https://yabianskysempire.github.io/fundador/articulos/pipeline-de-ventas-para-un-negocio-pequeno.html)
 - [Obsidian en el celular: sincronizar tus notas sin pagar](https://yabianskysempire.github.io/fundador/articulos/obsidian-en-el-celular-sincronizar-sin-pagar.html)
 - [Diario de aprendizajes del fundador en Obsidian](https://yabianskysempire.github.io/fundador/articulos/diario-de-aprendizajes-del-fundador.html)
 - [Bases en Obsidian: tablas de tus notas sin complementos](https://yabianskysempire.github.io/fundador/articulos/bases-en-obsidian.html)
