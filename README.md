@@ -29,6 +29,7 @@ Precio: USD 19
 ## Artículos
 
 - [Obsidian en el celular: sincronizar tus notas sin pagar](https://yabianskysempire.github.io/fundador/articulos/obsidian-en-el-celular-sincronizar-sin-pagar.html)
+- [Bases en Obsidian: tablas de tus notas sin complementos](https://yabianskysempire.github.io/fundador/articulos/bases-en-obsidian.html)
 - [Registro de experimentos de crecimiento en Obsidian](https://yabianskysempire.github.io/fundador/articulos/registro-de-experimentos-de-crecimiento-en-obsidian.html)
 - [Primera reunión de board en una startup temprana](https://yabianskysempire.github.io/fundador/articulos/primera-reunion-de-board-en-una-startup-temprana.html)
 - [Cómo repartir roles entre cofundadores](https://yabianskysempire.github.io/fundador/articulos/como-repartir-roles-entre-cofundadores.html)

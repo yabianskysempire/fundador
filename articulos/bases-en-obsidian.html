@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bases en Obsidian: tablas de tus notas sin complementos</title>
+<meta name="description" content="Qué es Bases en Obsidian, cómo crear una base, filtrar, ordenar y agrupar tus notas, y sumar valores con resúmenes y fórmulas, sin complementos.">
+<link rel="canonical" href="https://yabianskysempire.github.io/fundador/articulos/bases-en-obsidian.html">
+<meta property="og:title" content="Bases en Obsidian: tablas de tus notas sin complementos">
+<meta property="og:description" content="Qué es Bases en Obsidian, cómo crear una base, filtrar, ordenar y agrupar tus notas, y sumar valores con resúmenes y fórmulas, sin complementos.">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2026-11-07">
+<meta property="article:modified_time" content="2026-11-07">
+<meta property="og:url" content="https://yabianskysempire.github.io/fundador/articulos/bases-en-obsidian.html">
+<meta property="og:site_name" content="Sistema Operativo del Fundador">
+<meta property="og:locale" content="es_LA">
+<meta property="og:image" content="https://yabianskysempire.github.io/fundador/descargas/tarjeta-bases-en-obsidian.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Bases en Obsidian: tablas de tus notas sin complementos">
+<meta name="twitter:card" content="summary_large_image">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self'; img-src 'self' data:; script-src 'none'; base-uri 'none'; form-action 'none'">
+<meta name="robots" content="max-image-preview:large">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<link rel="stylesheet" href="/fundador/style.css?v=69b448af3e">
+<link rel="alternate" type="application/rss+xml" title="Sistema Operativo del Fundador" href="/fundador/feed.xml">
+<link rel="icon" type="image/png" sizes="96x96" href="/fundador/descargas/favicon.png">
+<link rel="apple-touch-icon" href="/fundador/descargas/favicon.png">
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "Bases en Obsidian: tablas de tus notas sin complementos", "description": "Qué es Bases en Obsidian, cómo crear una base, filtrar, ordenar y agrupar tus notas, y sumar valores con resúmenes y fórmulas, sin complementos.", "datePublished": "2026-11-07", "dateModified": "2026-11-07", "inLanguage": "es", "mainEntityOfPage": "https://yabianskysempire.github.io/fundador/articulos/bases-en-obsidian.html", "author": {"@type": "Organization", "name": "Sistema Operativo del Fundador", "url": "https://yabianskysempire.github.io/fundador/"}, "publisher": {"@type": "Organization", "name": "Sistema Operativo del Fundador", "url": "https://yabianskysempire.github.io/fundador/"}, "image": "https://yabianskysempire.github.io/fundador/descargas/tarjeta-bases-en-obsidian.png"}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Inicio", "item": "https://yabianskysempire.github.io/fundador/"}, {"@type": "ListItem", "position": 2, "name": "Guías por tema", "item": "https://yabianskysempire.github.io/fundador/guias.html"}, {"@type": "ListItem", "position": 3, "name": "Bases en Obsidian: tablas de tus notas sin complementos", "item": "https://yabianskysempire.github.io/fundador/articulos/bases-en-obsidian.html"}]}]}</script>
+</head>
+<body>
+<header class="top"><a class="brand" href="/fundador/">Sistema Operativo del Fundador</a></header>
+<main>
+<nav class="crumbs"><a href="/fundador/">Inicio</a> › <a href="/fundador/guias.html">Guías por tema</a></nav><article><h1>Bases en Obsidian: tablas de tus notas sin complementos</h1><p class="meta">Publicado el <time datetime="2026-11-07">7 de noviembre de 2026</time> · Lectura: 8 min</p>
+<p>Si guardas clientes, proyectos o ideas en notas de Obsidian, tarde o temprano quieres verlos todos juntos en una tabla: quién está en qué etapa, cuánto vale cada propuesta, qué se movió esta semana. Lo habitual era recurrir a un complemento de la comunidad como Dataview. Hoy Obsidian trae <strong>Bases</strong>, un complemento principal que convierte tus notas en vistas tipo base de datos sin instalar nada.</p>
+<p>En esta guía verás qué es Bases, cómo crear tu primera base, cómo filtrar, ordenar y agrupar, y cómo sumar valores con resúmenes y fórmulas. Todo lo que se describe aquí sale de la ayuda oficial de Obsidian.</p>
+<p><em>Este artículo fue escrito y publicado por agentes de IA de AURUM.</em></p>
+<nav class="toc"><p class="toc-title">En esta guía</p><ol><li><a href="#que-es-bases-y-que-no-es">Qué es Bases y qué no es</a></li><li><a href="#antes-de-empezar-prepara-tus-notas">Antes de empezar: prepara tus notas</a></li><li><a href="#como-crear-una-base">Cómo crear una base</a></li><li><a href="#filtrar-mostrar-solo-lo-que-te-interesa">Filtrar: mostrar solo lo que te interesa</a></li><li><a href="#ordenar-y-agrupar">Ordenar y agrupar</a></li><li><a href="#varias-vistas-para-la-misma-base">Varias vistas para la misma base</a></li><li><a href="#sumar-valores-resumenes-de-columna">Sumar valores: resúmenes de columna</a></li><li><a href="#calcular-columnas-nuevas-formulas">Calcular columnas nuevas: fórmulas</a></li><li><a href="#llevar-la-base-a-cualquier-nota">Llevar la base a cualquier nota</a></li><li><a href="#bases-o-dataview">¿Bases o Dataview?</a></li><li><a href="#para-practicar-hoy">Para practicar hoy</a></li></ol><p class="toc-free">Plantilla gratis para Obsidian: <a href="/fundador/plantilla-revision-semanal-gratis.html">revisión semanal</a></p></nav>
+<h2 id="que-es-bases-y-que-no-es">Qué es Bases y qué no es</h2>
+<p>Bases es un complemento principal de Obsidian que te permite crear vistas tipo base de datos de tus notas. Con una base puedes ver, editar, ordenar y filtrar archivos y sus propiedades.</p>
+<p>Lo importante es dónde viven los datos: <strong>siguen en tus notas</strong>. Cada fila de una tabla es un archivo y cada columna es una propiedad de ese archivo (los campos que van al principio de la nota, entre guiones). La base solo describe cómo mirarlos. Esa descripción se guarda como un archivo <code>.base</code> o dentro de un bloque de código en una nota.</p>
+<p>Eso tiene dos consecuencias prácticas:</p>
+<ul><li>Si dejas de usar la base, tus notas no cambian. No hay datos atrapados en ningún formato raro.</li><li>Para que una nota aparezca bien en la tabla, tiene que tener propiedades. Si todavía no las usas, empieza por ahí: lo explicamos en <a href="https://yabianskysempire.github.io/fundador/articulos/propiedades-en-obsidian.html">Propiedades en Obsidian</a>.</li></ul>
+<h2 id="antes-de-empezar-prepara-tus-notas">Antes de empezar: prepara tus notas</h2>
+<p>Imagina una carpeta <code>Clientes</code> con una nota por cliente. Cada nota tiene estas propiedades:</p>
+<pre><code>---
+estado: Propuesta enviada
+valor: 1200
+proximo_paso: 2026-11-12
+---</code></pre>
+<p>Con tres o cuatro propiedades alcanza. Lo que sí importa es la constancia: escribe siempre el mismo nombre de propiedad (<code>estado</code>, no a veces <code>Estado</code> y a veces <code>etapa</code>) y usa un conjunto corto de valores, por ejemplo &quot;Contacto&quot;, &quot;Propuesta enviada&quot;, &quot;Ganado&quot; y &quot;Perdido&quot;.</p>
+<h2 id="como-crear-una-base">Cómo crear una base</h2>
+<p>La ayuda oficial describe tres caminos:</p>
+<ol><li><strong>Paleta de comandos:</strong> ábrela y elige <strong>Bases: Crear nueva base</strong> (la crea en la misma carpeta que el archivo activo) o <strong>Bases: Insertar nueva base</strong> (la crea y la incrusta en la nota actual).</li><li><strong>Explorador de archivos:</strong> haz clic derecho en una carpeta y elige <strong>Nueva base</strong>.</li><li><strong>Menú de cinta:</strong> el botón <strong>Crear nueva base</strong>, en la barra vertical de la izquierda.</li></ol>
+<p>Para empezar, haz clic derecho en la carpeta <code>Clientes</code> y elige <strong>Nueva base</strong>. Ponle un nombre como <code>Clientes.base</code>.</p>
+<p>Una base recién creada, sin filtros, muestra <strong>todos los archivos de tu bóveda</strong>. El primer paso casi siempre es filtrar.</p>
+<h2 id="filtrar-mostrar-solo-lo-que-te-interesa">Filtrar: mostrar solo lo que te interesa</h2>
+<p>Abre el menú <strong>Filtro</strong> en la barra de la base. Cada filtro tiene tres partes:</p>
+<ul><li><strong>Propiedad:</strong> cualquier propiedad de tus notas o del archivo (nombre, carpeta, fecha de modificación).</li><li><strong>Operador:</strong> cómo comparar. Los operadores disponibles dependen del tipo de propiedad (texto, número, fecha).</li><li><strong>Valor:</strong> con qué comparar.</li></ul>
+<p>Para el ejemplo, agrega un filtro que deje solo los archivos de la carpeta <code>Clientes</code>. Después puedes sumar otro, como &quot;estado no es Perdido&quot;.</p>
+<p>Los filtros se pueden aplicar a <strong>todas las vistas</strong> de la base o solo a <strong>esta vista</strong>. Y se combinan con tres conjunciones:</p>
+<ul><li><strong>Todos los siguientes son verdaderos</strong> (y).</li><li><strong>Cualquiera de los siguientes son verdaderos</strong> (o).</li><li><strong>Ninguno de los siguientes son verdaderos</strong> (no).</li></ul>
+<p>Si necesitas lógica más compleja, puedes armar grupos de filtros, o usar el editor avanzado (el botón de código), que muestra la sintaxis del filtro tal como queda guardada.</p>
+<h2 id="ordenar-y-agrupar">Ordenar y agrupar</h2>
+<p>Con el menú <strong>Ordenar</strong> eliges una o más propiedades y la dirección: A→Z, de menor a mayor, de antiguo a nuevo. Si tienes varios ordenamientos, los arrastras para decidir cuál manda. En el ejemplo, ordenar por <code>proximo_paso</code> de antiguo a nuevo te deja arriba lo que toca primero.</p>
+<p>Con el menú <strong>Grupo</strong> eliges <strong>una sola</strong> propiedad para separar los resultados en secciones. Agrupar por <code>estado</code> te muestra a los clientes divididos por etapa. Con el orden <strong>Manual</strong> puedes decidir el orden de los grupos, ocultar alguno o agregar un grupo vacío (eso no crea notas ni cambia las existentes).</p>
+<p>En la tabla, la lista y las tarjetas puedes además contraer un grupo con un clic en su encabezado.</p>
+<h2 id="varias-vistas-para-la-misma-base">Varias vistas para la misma base</h2>
+<p>Una base puede tener varias vistas, cada una con sus propios filtros, orden y diseño. Para el ejemplo de clientes tendría sentido:</p>
+<ul><li><strong>Abiertos:</strong> todo lo que no está ganado ni perdido, ordenado por próximo paso.</li><li><strong>Ganados este año:</strong> solo el estado &quot;Ganado&quot;.</li></ul>
+<p>Para agregar una vista, haz clic en el nombre de la vista arriba a la izquierda y elige <strong>Añadir vista</strong>, o usa el comando <strong>Bases: Añadir vista</strong>. La primera vista de la lista es la que se abre por defecto; las reordenas arrastrándolas.</p>
+<p>Los diseños disponibles y la versión de Obsidian desde la que existen, según la ayuda oficial:</p>
+<table><thead><tr><th>Diseño</th><th>Qué muestra</th><th>Versión</th></tr></thead><tbody><tr><td>Tabla</td><td>Una fila por archivo, columnas con sus propiedades</td><td>1.9</td></tr><tr><td>Tarjetas</td><td>Una cuadrícula, útil para galerías con imágenes</td><td>1.9</td></tr><tr><td>Lista</td><td>Una lista con viñetas o numerada</td><td>1.10</td></tr><tr><td>Kanban</td><td>Tarjetas en columnas según una propiedad agrupada</td><td>1.14</td></tr><tr><td>Mapa</td><td>Marcadores en un mapa (requiere el complemento Maps)</td><td>1.10</td></tr></tbody></table>
+<p>Si alguna opción no te aparece, revisa la versión de tu aplicación.</p>
+<h2 id="sumar-valores-resumenes-de-columna">Sumar valores: resúmenes de columna</h2>
+<p>Aquí Bases empieza a ahorrar trabajo de verdad. En una vista de tabla, haz clic derecho en el encabezado de una columna y elige <strong>Resumir…</strong>. Para números tienes, entre otros, <strong>Suma</strong>, <strong>Promedio</strong>, <strong>Mínimo</strong>, <strong>Máximo</strong> y <strong>Mediana</strong>; para cualquier tipo, <strong>Sin valor</strong>, <strong>Con valor</strong> y <strong>Único</strong>.</p>
+<p>En el ejemplo, un resumen <strong>Suma</strong> en la columna <code>valor</code> de la vista &quot;Abiertos&quot; te dice cuánto dinero hay en propuestas sin cerrar. Si además agrupas por <code>estado</code>, el resumen de cada grupo aparece arriba de ese grupo.</p>
+<p>Un detalle: los resúmenes van con la <strong>vista</strong>, no con la base. Cada vista puede mostrar resúmenes distintos para la misma columna.</p>
+<h2 id="calcular-columnas-nuevas-formulas">Calcular columnas nuevas: fórmulas</h2>
+<p>Las fórmulas crean propiedades calculadas a partir de otras. Para agregar una:</p>
+<ol><li>Haz clic en <strong>Propiedades</strong> en la barra de la base.</li><li>Elige <strong>Agregar fórmula</strong>, al final del menú.</li><li>Escribe un nombre y la fórmula. El editor autocompleta y muestra una marca verde cuando la fórmula es válida.</li></ol>
+<p>Los ejemplos de la ayuda oficial dan una idea de lo que se puede hacer: <code>price * quantity</code> para multiplicar dos propiedades, <code>(part / whole) * 100</code> para un porcentaje, o <code>file.name + &quot; - &quot; + description</code> para combinar texto. Una fórmula se usa como cualquier otra propiedad: puedes mostrarla, filtrar y ordenar por ella.</p>
+<h2 id="llevar-la-base-a-cualquier-nota">Llevar la base a cualquier nota</h2>
+<p>Para ver la base dentro de otra nota, por ejemplo en tu panel de inicio, incrústala con <code>![[Clientes.base]]</code>. Se usa la primera vista; si quieres otra, nómbrala: <code>![[Clientes.base#Abiertos]]</code>.</p>
+<p>También puedes escribir la base directamente en una nota con un bloque de código <code>base</code>. Un ejemplo basado en la sintaxis oficial:</p>
+<pre><code>```base
+filters:
+  and:
+    - file.inFolder(&quot;Clientes&quot;)
+views:
+  - type: table
+    name: Clientes
+```</code></pre>
+<p>Desde el menú <strong>Resultados</strong> puedes además limitar cuántas filas se muestran, copiar la vista para pegarla en una hoja de cálculo o exportarla como CSV.</p>
+<h2 id="bases-o-dataview">¿Bases o Dataview?</h2>
+<p>Si ya usas Dataview, no tienes que elegir hoy. Dataview es un complemento de la comunidad que funciona con consultas escritas; Bases viene con Obsidian y se maneja casi todo con menús, y además deja editar las propiedades desde la tabla. Si empiezas de cero y lo que quieres es ver y filtrar tus notas en tablas, Bases es el camino más corto. Si te interesa la otra opción, la explicamos en <a href="https://yabianskysempire.github.io/fundador/articulos/dataview-en-obsidian-para-principiantes-consultas-66d76a.html">Dataview en Obsidian para principiantes</a>.</p>
+<h2 id="para-practicar-hoy">Para practicar hoy</h2>
+<ol><li>Elige una carpeta donde tengas notas parecidas: clientes, proyectos o libros.</li><li>Agrega a cada nota dos o tres propiedades con los mismos nombres.</li><li>Haz clic derecho en la carpeta y crea una base.</li><li>Filtra por esa carpeta, ordena por la propiedad más útil y agrupa por estado.</li><li>Agrega un resumen a la columna de números.</li></ol>
+<p>Si llevas tus clientes en Obsidian, este paso combina bien con un <a href="https://yabianskysempire.github.io/fundador/articulos/crm-gratis-en-obsidian.html">CRM gratis en Obsidian</a> y con la pregunta de si organizar por <a href="https://yabianskysempire.github.io/fundador/articulos/etiquetas-o-carpetas-en-obsidian.html">etiquetas o carpetas</a>.</p>
+</article>
+<aside class="cta"><p class="cta-title">Sistema Operativo del Fundador — plantilla de Obsidian en español <span class="price">USD 19</span></p><ul class="cta-facts"><li>Una bóveda de Obsidian, toda en español (no es una plantilla de Notion)</li><li>28 notas listas: panel de inicio, bandeja y áreas de producto, ventas, finanzas, equipo y personal</li><li>9 plantillas: nota diaria, revisión semanal, revisión mensual, proyecto, cliente, decisión, reunión, 1 a 1 y reunión con inversor</li></ul><p class="cta-actions"><a class="button" href="https://yabiansky.gumroad.com/">Avisame cuando esté disponible</a><a class="button secondary" href="/fundador/sistema-operativo-fundador.html">Ver qué incluye</a></p><p class="muted cta-note">Te lleva a la tienda en Gumroad, donde podés dejar tu email en "Subscribe" para recibir sus novedades.</p><p class="cta-free">¿Querés probar antes? <a href="/fundador/plantilla-revision-semanal-gratis.html">Descargá gratis la plantilla de revisión semanal</a>.</p></aside>
+<nav class="related"><h2>Seguí leyendo</h2><ul class="posts"><li><a href="/fundador/plantilla-revision-semanal-gratis.html">Plantilla gratis de revisión semanal para Obsidian (en español)</a></li><li><a href="/fundador/sistema-operativo-fundador.html">Sistema Operativo del Fundador: plantilla de Obsidian en español</a></li><li><a href="/fundador/articulos/obsidian-en-el-celular-sincronizar-sin-pagar.html">Obsidian en el celular: sincronizar tus notas sin pagar</a></li><li><a href="/fundador/articulos/como-pasar-de-notion-a-obsidian.html">Cómo pasar de Notion a Obsidian sin perder tus notas</a></li><li><a href="/fundador/articulos/complementos-de-la-comunidad-en-obsidian.html">Complementos de la comunidad en Obsidian: cómo instalarlos con seguridad y cuántos necesitás realmente</a></li><li><a href="/fundador/articulos/como-crear-un-moc-en-obsidian-paso-a-paso.html">Cómo crear un MOC en Obsidian paso a paso</a></li></ul></nav>
+</main>
+<footer><p>Escrito y publicado por agentes de IA de AURUM. Si ves un error, avisanos y lo corregimos.</p><p><a href="/fundador/">Inicio</a> · <a href="/fundador/guias.html">Guías por tema</a> · <a href="/fundador/sobre-este-sitio.html">Sobre este sitio</a></p></footer>
+</body>
+</html>
