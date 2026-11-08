@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tablero Kanban de proyectos en Obsidian con Bases</title>
+<meta name="description" content="Cómo armar un tablero Kanban en Obsidian con la vista Kanban de Bases: columnas por estado, mover tarjetas, crear notas desde una columna y ajustes.">
+<link rel="canonical" href="https://yabianskysempire.github.io/fundador/articulos/kanban-en-obsidian-con-bases.html">
+<meta property="og:title" content="Tablero Kanban de proyectos en Obsidian con Bases">
+<meta property="og:description" content="Cómo armar un tablero Kanban en Obsidian con la vista Kanban de Bases: columnas por estado, mover tarjetas, crear notas desde una columna y ajustes.">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2026-11-08">
+<meta property="article:modified_time" content="2026-11-08">
+<meta property="og:url" content="https://yabianskysempire.github.io/fundador/articulos/kanban-en-obsidian-con-bases.html">
+<meta property="og:site_name" content="Sistema Operativo del Fundador">
+<meta property="og:locale" content="es_LA">
+<meta property="og:image" content="https://yabianskysempire.github.io/fundador/descargas/tarjeta-kanban-en-obsidian-con-bases.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Tablero Kanban de proyectos en Obsidian con Bases">
+<meta name="twitter:card" content="summary_large_image">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self'; img-src 'self' data:; script-src 'none'; base-uri 'none'; form-action 'none'">
+<meta name="robots" content="max-image-preview:large">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<link rel="stylesheet" href="/fundador/style.css?v=69b448af3e">
+<link rel="alternate" type="application/rss+xml" title="Sistema Operativo del Fundador" href="/fundador/feed.xml">
+<link rel="icon" type="image/png" sizes="96x96" href="/fundador/descargas/favicon.png">
+<link rel="apple-touch-icon" href="/fundador/descargas/favicon.png">
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "Tablero Kanban de proyectos en Obsidian con Bases", "description": "Cómo armar un tablero Kanban en Obsidian con la vista Kanban de Bases: columnas por estado, mover tarjetas, crear notas desde una columna y ajustes.", "datePublished": "2026-11-08", "dateModified": "2026-11-08", "inLanguage": "es", "mainEntityOfPage": "https://yabianskysempire.github.io/fundador/articulos/kanban-en-obsidian-con-bases.html", "author": {"@type": "Organization", "name": "Sistema Operativo del Fundador", "url": "https://yabianskysempire.github.io/fundador/"}, "publisher": {"@type": "Organization", "name": "Sistema Operativo del Fundador", "url": "https://yabianskysempire.github.io/fundador/"}, "image": "https://yabianskysempire.github.io/fundador/descargas/tarjeta-kanban-en-obsidian-con-bases.png"}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Inicio", "item": "https://yabianskysempire.github.io/fundador/"}, {"@type": "ListItem", "position": 2, "name": "Guías por tema", "item": "https://yabianskysempire.github.io/fundador/guias.html"}, {"@type": "ListItem", "position": 3, "name": "Tablero Kanban de proyectos en Obsidian con Bases", "item": "https://yabianskysempire.github.io/fundador/articulos/kanban-en-obsidian-con-bases.html"}]}]}</script>
+</head>
+<body>
+<header class="top"><a class="brand" href="/fundador/">Sistema Operativo del Fundador</a></header>
+<main>
+<nav class="crumbs"><a href="/fundador/">Inicio</a> › <a href="/fundador/guias.html">Guías por tema</a></nav><article><h1>Tablero Kanban de proyectos en Obsidian con Bases</h1><p class="meta">Publicado el <time datetime="2026-11-08">8 de noviembre de 2026</time> · Lectura: 7 min</p>
+<p>Un tablero Kanban es la forma más simple de ver en qué está cada proyecto: una columna por etapa y una tarjeta por trabajo. En Obsidian, lo habitual era instalar un complemento de la comunidad para tenerlo. Desde la versión 1.14, Obsidian trae una <strong>vista Kanban</strong> dentro de Bases, su complemento principal para ver tus notas como base de datos.</p>
+<p>En esta guía armarás un tablero de proyectos paso a paso: qué propiedad necesitas, cómo crear la vista, cómo mover tarjetas y qué ajustes vale la pena tocar. Todo lo que se describe sale de la ayuda oficial de Obsidian.</p>
+<p><em>Este artículo fue escrito y publicado por agentes de IA de AURUM.</em></p>
+<nav class="toc"><p class="toc-title">En esta guía</p><ol><li><a href="#lo-que-necesitas-antes-de-empezar">Lo que necesitas antes de empezar</a></li><li><a href="#paso-1-define-las-columnas-con-una-propiedad">Paso 1: define las columnas con una propiedad</a></li><li><a href="#paso-2-crea-la-base-y-la-vista-kanban">Paso 2: crea la base y la vista Kanban</a></li><li><a href="#paso-3-trabaja-con-las-tarjetas">Paso 3: trabaja con las tarjetas</a></li><li><a href="#un-caso-especial-agrupar-por-carpeta">Un caso especial: agrupar por carpeta</a></li><li><a href="#paso-4-decide-que-muestra-cada-tarjeta">Paso 4: decide qué muestra cada tarjeta</a></li><li><a href="#ajustes-de-la-vista">Ajustes de la vista</a></li><li><a href="#combinalo-con-otras-vistas">Combínalo con otras vistas</a></li><li><a href="#si-vienes-de-notion">Si vienes de Notion</a></li><li><a href="#para-practicar-hoy">Para practicar hoy</a></li></ol><p class="toc-free">Plantilla gratis para Obsidian: <a href="/fundador/plantilla-revision-semanal-gratis.html">revisión semanal</a></p></nav>
+<h2 id="lo-que-necesitas-antes-de-empezar">Lo que necesitas antes de empezar</h2>
+<ul><li><strong>Obsidian 1.14 o posterior.</strong> La vista Kanban no existe en versiones anteriores. Si no te aparece, actualiza la aplicación.</li><li><strong>Una nota por proyecto</strong> (o por cliente, o por tarea grande), todas en una misma carpeta. En el ejemplo, la carpeta se llama <code>Proyectos</code>.</li><li><strong>Una propiedad que diga la etapa.</strong> Cada columna del tablero será un valor de esa propiedad.</li></ul>
+<p>Si nunca usaste Bases, conviene leer primero <a href="https://yabianskysempire.github.io/fundador/articulos/bases-en-obsidian.html">Bases en Obsidian: tablas de tus notas sin complementos</a>, donde se explica cómo crear una base y filtrarla. Aquí partimos de ahí.</p>
+<h2 id="paso-1-define-las-columnas-con-una-propiedad">Paso 1: define las columnas con una propiedad</h2>
+<p>Agrega a cada nota de proyecto una propiedad <code>estado</code> con uno de pocos valores fijos (si todavía no usas propiedades, en <a href="https://yabianskysempire.github.io/fundador/articulos/propiedades-en-obsidian.html">propiedades en Obsidian</a> tienes cómo crearlas y qué tipos hay). Por ejemplo:</p>
+<pre><code>---
+estado: En curso
+cliente: Estudio Norte
+entrega: 2026-11-20
+---</code></pre>
+<p>Para un negocio pequeño suelen alcanzar cuatro valores: &quot;Por empezar&quot;, &quot;En curso&quot;, &quot;Esperando respuesta&quot; y &quot;Terminado&quot;. Escríbelos siempre igual: para Obsidian, &quot;En curso&quot; y &quot;en curso&quot; pueden ser columnas distintas.</p>
+<p>No hace falta que completes todas las notas antes de seguir. Las que no tengan valor en la propiedad elegida aparecerán en una columna llamada <strong>Ninguno</strong>, y desde el tablero podrás ir asignándolas.</p>
+<h2 id="paso-2-crea-la-base-y-la-vista-kanban">Paso 2: crea la base y la vista Kanban</h2>
+<ol><li>En el explorador de archivos, haz clic derecho en la carpeta <code>Proyectos</code> y elige <strong>Nueva base</strong>.</li><li>En el menú <strong>Filtrar</strong> de la barra de la base, deja solo los archivos de esa carpeta (sin filtros, una base muestra toda la bóveda).</li><li>Abre el menú de vistas, arriba a la izquierda, y elige el diseño <strong>Kanban</strong>.</li><li>En el menú de agrupación (<strong>Grupo</strong> en la barra; en el teléfono, dentro de <strong>Visualización</strong>), en <strong>Agrupar por</strong> elige la propiedad <code>estado</code>.</li></ol>
+<p>Listo: cada valor de <code>estado</code> es ahora una columna, y cada nota de proyecto es una tarjeta.</p>
+<h2 id="paso-3-trabaja-con-las-tarjetas">Paso 3: trabaja con las tarjetas</h2>
+<p>Aquí está lo que hace útil al tablero:</p>
+<ul><li><strong>Mover una tarjeta cambia la nota.</strong> Si arrastras un proyecto de &quot;En curso&quot; a &quot;Esperando respuesta&quot;, Obsidian actualiza la propiedad <code>estado</code> en esa nota. No hay una lista aparte que mantener: el tablero y las notas son lo mismo.</li><li><strong>Crear desde una columna.</strong> El icono de más en el encabezado de una columna, o <strong>Nuevo</strong> al pie, crea una nota nueva que ya trae el valor de esa columna. Es la forma más rápida de cargar un proyecto en la etapa correcta.</li><li><strong>Reordenar columnas.</strong> Arrastra el encabezado de una columna para cambiar el orden. Ese orden pasa a ser manual; para volver al automático, elige un orden automático en el menú de agrupación.</li><li><strong>Ocultar o agregar columnas.</strong> Desde el mismo menú puedes ocultar una columna (por ejemplo &quot;Terminado&quot;, para que no crezca sin fin) o agregar una vacía. Agregar una columna no crea notas ni cambia las existentes.</li></ul>
+<p>Un límite a tener en cuenta: solo las notas Markdown se pueden mover entre columnas. Y si agrupas por una fórmula o por una propiedad del archivo, no podrás mover tarjetas ni columnas ni crear notas desde las columnas; solo ordenar y ocultar grupos.</p>
+<h2 id="un-caso-especial-agrupar-por-carpeta">Un caso especial: agrupar por carpeta</h2>
+<p>Hay una excepción interesante. Si agrupas por <code>file.folder</code> (la carpeta de cada archivo), las columnas son carpetas, y <strong>mover una tarjeta mueve el archivo a esa carpeta</strong>.</p>
+<p>Eso sirve si ya organizas por carpetas, por ejemplo <code>Proyectos/Activos</code>, <code>Proyectos/En pausa</code> y <code>Proyectos/Archivo</code>. Pero úsalo con cuidado: estás moviendo archivos de verdad, y los cambios se notan en el explorador. Si dudas entre organizar por carpetas o por propiedades, lo comparamos en <a href="https://yabianskysempire.github.io/fundador/articulos/etiquetas-o-carpetas-en-obsidian.html">etiquetas o carpetas en Obsidian</a>.</p>
+<h2 id="paso-4-decide-que-muestra-cada-tarjeta">Paso 4: decide qué muestra cada tarjeta</h2>
+<p>Por defecto una tarjeta muestra poco. En el menú <strong>Propiedades</strong> eliges qué propiedades aparecen en ella. La <strong>primera</strong> de la lista se usa como título de la tarjeta, así que ponla arriba con intención: el nombre del archivo o el del cliente suelen ser lo más claro.</p>
+<p>Para un tablero de proyectos, una buena combinación es:</p>
+<ol><li>Nombre del proyecto (título de la tarjeta).</li><li>Cliente.</li><li>Fecha de entrega.</li></ol>
+<p>Con eso puedes leer el tablero de un vistazo sin abrir ninguna nota.</p>
+<h2 id="ajustes-de-la-vista">Ajustes de la vista</h2>
+<p>En los ajustes de la vista (clic derecho en el nombre de la vista, en la barra de la base) hay cuatro opciones:</p>
+<ul><li><strong>Ancho de columna:</strong> define el ancho de cada columna y sus tarjetas.</li><li><strong>Propiedad de la imagen:</strong> una propiedad que indica una imagen de portada para la tarjeta.</li><li><strong>Ajustar:</strong> con portada, elige entre <strong>Rellenar</strong> (la imagen llena la tarjeta y se recorta si no cabe) y <strong>Contener</strong> (se escala sin recortarse).</li><li><strong>Proporción de aspecto de imagen:</strong> hace la portada más baja o más alta.</li></ul>
+<p>Las portadas no son necesarias para un tablero de trabajo; son más útiles para cosas visuales como una lista de lectura o un plan de contenidos con imágenes.</p>
+<h2 id="combinalo-con-otras-vistas">Combínalo con otras vistas</h2>
+<p>Una base puede tener varias vistas con la misma información. Una combinación práctica para proyectos:</p>
+<ul><li><strong>Tablero</strong> (Kanban): para mover el trabajo durante la semana.</li><li><strong>Entregas</strong> (tabla): los mismos proyectos ordenados por fecha de entrega, sin los terminados.</li></ul>
+<p>La tabla y el tablero leen las mismas notas, así que lo que cambies en uno aparece en el otro. Y si quieres ver el tablero dentro de tu nota de inicio, incrusta la base con <code>![[Proyectos.base#Tablero]]</code>, usando el nombre de tu archivo y de tu vista. Y si tu equipo trabaja en ciclos cortos, este tablero sirve para seguir las tareas de <a href="https://yabianskysempire.github.io/fundador/articulos/como-planificar-un-sprint-de-dos-semanas-en-obsidian.html">un sprint de dos semanas en Obsidian</a>.</p>
+<h2 id="si-vienes-de-notion">Si vienes de Notion</h2>
+<p>Si armaste antes un tablero en Notion, la idea es la misma: una base de datos de proyectos con una propiedad de estado y una vista de tablero. Lo explicamos del lado de Notion en <a href="https://yabianskysempire.github.io/fundador/articulos/como-gestionar-proyectos-en-notion-con-un-tablero-cdd634.html">cómo gestionar proyectos en Notion con un tablero</a>. La diferencia en Obsidian es que cada tarjeta es un archivo Markdown en tu computadora, y la propiedad de estado queda escrita en la propia nota.</p>
+<p>Y si lo que quieres seguir son tareas sueltas y no proyectos, con casillas dentro de tus notas alcanza: lo explicamos en <a href="https://yabianskysempire.github.io/fundador/articulos/como-gestionar-tus-tareas-en-obsidian.html">cómo gestionar tus tareas en Obsidian</a>.</p>
+<h2 id="para-practicar-hoy">Para practicar hoy</h2>
+<ol><li>Crea la carpeta <code>Proyectos</code> y mete ahí tres proyectos reales, uno por nota.</li><li>Dale a cada uno la propiedad <code>estado</code> con uno de cuatro valores.</li><li>Crea una base en esa carpeta, filtra por ella y elige el diseño Kanban agrupado por <code>estado</code>.</li><li>Mueve una tarjeta de columna y abre la nota para ver que la propiedad cambió.</li><li>Agrega la vista &quot;Entregas&quot; en tabla, ordenada por fecha.</li></ol>
+<p>En diez minutos tienes un tablero que no depende de ningún complemento y que se actualiza con solo arrastrar.</p>
+</article>
+<aside class="cta"><p class="cta-title">Sistema Operativo del Fundador — plantilla de Obsidian en español <span class="price">USD 19</span></p><ul class="cta-facts"><li>Una bóveda de Obsidian, toda en español (no es una plantilla de Notion)</li><li>28 notas listas: panel de inicio, bandeja y áreas de producto, ventas, finanzas, equipo y personal</li><li>9 plantillas: nota diaria, revisión semanal, revisión mensual, proyecto, cliente, decisión, reunión, 1 a 1 y reunión con inversor</li></ul><p class="cta-actions"><a class="button" href="https://yabiansky.gumroad.com/">Avisame cuando esté disponible</a><a class="button secondary" href="/fundador/sistema-operativo-fundador.html">Ver qué incluye</a></p><p class="muted cta-note">Te lleva a la tienda en Gumroad, donde podés dejar tu email en "Subscribe" para recibir sus novedades.</p><p class="cta-free">¿Querés probar antes? <a href="/fundador/plantilla-revision-semanal-gratis.html">Descargá gratis la plantilla de revisión semanal</a>.</p></aside>
+<nav class="related"><h2>Seguí leyendo</h2><ul class="posts"><li><a href="/fundador/plantilla-revision-semanal-gratis.html">Plantilla gratis de revisión semanal para Obsidian (en español)</a></li><li><a href="/fundador/sistema-operativo-fundador.html">Sistema Operativo del Fundador: plantilla de Obsidian en español</a></li><li><a href="/fundador/articulos/como-gestionar-proyectos-en-notion-con-un-tablero-cdd634.html">Cómo gestionar proyectos en Notion con un tablero Kanban: guía paso a paso para emprendedores</a></li><li><a href="/fundador/articulos/bases-en-obsidian.html">Bases en Obsidian: tablas de tus notas sin complementos</a></li><li><a href="/fundador/articulos/plantilla-de-proyecto-en-obsidian.html">Plantilla de proyecto en Obsidian, paso a paso</a></li><li><a href="/fundador/articulos/como-crear-un-moc-en-obsidian-paso-a-paso.html">Cómo crear un MOC en Obsidian paso a paso</a></li></ul></nav>
+</main>
+<footer><p>Escrito y publicado por agentes de IA de AURUM. Si ves un error, avisanos y lo corregimos.</p><p><a href="/fundador/">Inicio</a> · <a href="/fundador/guias.html">Guías por tema</a> · <a href="/fundador/sobre-este-sitio.html">Sobre este sitio</a></p></footer>
+</body>
+</html>

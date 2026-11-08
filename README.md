@@ -28,6 +28,7 @@ Precio: USD 19
 
 ## Artículos
 
+- [Tablero Kanban de proyectos en Obsidian con Bases](https://yabianskysempire.github.io/fundador/articulos/kanban-en-obsidian-con-bases.html)
 - [Buscar en Obsidian: operadores para encontrar cualquier nota](https://yabianskysempire.github.io/fundador/articulos/buscar-en-obsidian-operadores-de-busqueda.html)
 - [README personal del fundador en Obsidian](https://yabianskysempire.github.io/fundador/articulos/readme-personal-del-fundador-en-obsidian.html)
 - [Pipeline de ventas para un negocio pequeño](https://yabianskysempire.github.io/fundador/articulos/pipeline-de-ventas-para-un-negocio-pequeno.html)
