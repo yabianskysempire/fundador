@@ -31,6 +31,7 @@ Precio: USD 19
 - [Registro de riesgos para tu startup o proyecto](https://yabianskysempire.github.io/fundador/articulos/registro-de-riesgos-para-tu-startup-o-proyecto.html)
 - [Registro de proveedores y contratos en Obsidian](https://yabianskysempire.github.io/fundador/articulos/registro-de-proveedores-y-contratos-en-obsidian.html)
 - [Cómo armar un panel de inicio en Obsidian](https://yabianskysempire.github.io/fundador/articulos/panel-de-inicio-en-obsidian.html)
+- [Notas incrustadas y bloques en Obsidian, paso a paso](https://yabianskysempire.github.io/fundador/articulos/notas-incrustadas-y-bloques-en-obsidian-paso-a-paso.html)
 - [Tablero Kanban de proyectos en Obsidian con Bases](https://yabianskysempire.github.io/fundador/articulos/kanban-en-obsidian-con-bases.html)
 - [Cómo organizar tu ronda de inversión en Obsidian](https://yabianskysempire.github.io/fundador/articulos/como-organizar-tu-ronda-de-inversion-en-obsidian.html)
 - [Buscar en Obsidian: operadores para encontrar cualquier nota](https://yabianskysempire.github.io/fundador/articulos/buscar-en-obsidian-operadores-de-busqueda.html)
