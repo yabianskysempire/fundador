@@ -31,6 +31,7 @@ Precio: USD 19
 
 - [Plantilla de Obsidian para freelancers: clientes y cobros](https://yabianskysempire.github.io/fundador/articulos/plantilla-de-obsidian-para-freelancers.html)
 - [Cómo poner Obsidian en español \(app, corrector y ayuda\)](https://yabianskysempire.github.io/fundador/articulos/como-poner-obsidian-en-espanol.html)
+- [Cómo cobrar facturas atrasadas sin perder al cliente](https://yabianskysempire.github.io/fundador/articulos/como-cobrar-facturas-atrasadas.html)
 - [Registro de riesgos para tu startup o proyecto](https://yabianskysempire.github.io/fundador/articulos/registro-de-riesgos-para-tu-startup-o-proyecto.html)
 - [Registro de proveedores y contratos en Obsidian](https://yabianskysempire.github.io/fundador/articulos/registro-de-proveedores-y-contratos-en-obsidian.html)
 - [Cómo armar un panel de inicio en Obsidian](https://yabianskysempire.github.io/fundador/articulos/panel-de-inicio-en-obsidian.html)
