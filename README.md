@@ -29,6 +29,7 @@ Precio: USD 19
 
 ## Artículos
 
+- [Plantilla de Obsidian para freelancers: clientes y cobros](https://yabianskysempire.github.io/fundador/articulos/plantilla-de-obsidian-para-freelancers.html)
 - [Cómo poner Obsidian en español \(app, corrector y ayuda\)](https://yabianskysempire.github.io/fundador/articulos/como-poner-obsidian-en-espanol.html)
 - [Registro de riesgos para tu startup o proyecto](https://yabianskysempire.github.io/fundador/articulos/registro-de-riesgos-para-tu-startup-o-proyecto.html)
 - [Registro de proveedores y contratos en Obsidian](https://yabianskysempire.github.io/fundador/articulos/registro-de-proveedores-y-contratos-en-obsidian.html)
