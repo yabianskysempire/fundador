@@ -9,6 +9,7 @@ Guías prácticas y plantillas de Obsidian en español para fundadores que quier
 ## Empezá por acá
 
 - [Obsidian para principiantes: guía paso a paso en español](https://yabianskysempire.github.io/fundador/articulos/obsidian-para-principiantes.html)
+- [Cómo poner Obsidian en español \(app, corrector y ayuda\)](https://yabianskysempire.github.io/fundador/articulos/como-poner-obsidian-en-espanol.html)
 - [Plantilla gratis de revisión semanal para Obsidian \(en español\)](https://yabianskysempire.github.io/fundador/plantilla-revision-semanal-gratis.html)
 - [Sistema Operativo del Fundador: plantilla de Obsidian en español](https://yabianskysempire.github.io/fundador/sistema-operativo-fundador.html)
 
@@ -28,6 +29,7 @@ Precio: USD 19
 
 ## Artículos
 
+- [Cómo poner Obsidian en español \(app, corrector y ayuda\)](https://yabianskysempire.github.io/fundador/articulos/como-poner-obsidian-en-espanol.html)
 - [Registro de riesgos para tu startup o proyecto](https://yabianskysempire.github.io/fundador/articulos/registro-de-riesgos-para-tu-startup-o-proyecto.html)
 - [Registro de proveedores y contratos en Obsidian](https://yabianskysempire.github.io/fundador/articulos/registro-de-proveedores-y-contratos-en-obsidian.html)
 - [Cómo armar un panel de inicio en Obsidian](https://yabianskysempire.github.io/fundador/articulos/panel-de-inicio-en-obsidian.html)
