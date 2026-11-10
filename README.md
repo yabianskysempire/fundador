@@ -29,6 +29,7 @@ Precio: USD 19
 
 ## Artículos
 
+- [Cómo registrar y validar ideas de producto en Obsidian](https://yabianskysempire.github.io/fundador/articulos/validar-ideas-de-producto-en-obsidian.html)
 - [Update mensual para inversores: estructura y ejemplo](https://yabianskysempire.github.io/fundador/articulos/update-mensual-para-inversores.html)
 - [Cómo compartir notas de Obsidian con tu equipo](https://yabianskysempire.github.io/fundador/articulos/como-compartir-notas-de-obsidian-con-tu-equipo.html)
 - [Plantilla de Obsidian para freelancers: clientes y cobros](https://yabianskysempire.github.io/fundador/articulos/plantilla-de-obsidian-para-freelancers.html)
