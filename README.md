@@ -31,6 +31,7 @@ Precio: USD 19
 
 - [Cómo registrar y validar ideas de producto en Obsidian](https://yabianskysempire.github.io/fundador/articulos/validar-ideas-de-producto-en-obsidian.html)
 - [Update mensual para inversores: estructura y ejemplo](https://yabianskysempire.github.io/fundador/articulos/update-mensual-para-inversores.html)
+- [Plan de 90 días para un negocio nuevo](https://yabianskysempire.github.io/fundador/articulos/plan-de-90-dias-para-un-negocio-nuevo.html)
 - [Obsidian Web Clipper: guarda páginas web en tus notas](https://yabianskysempire.github.io/fundador/articulos/obsidian-web-clipper.html)
 - [Cómo registrar objeciones de venta y preparar respuestas](https://yabianskysempire.github.io/fundador/articulos/como-registrar-objeciones-de-venta-y-preparar-respuestas.html)
 - [Cómo preparar una demo de producto para un cliente](https://yabianskysempire.github.io/fundador/articulos/como-preparar-una-demo-de-producto-para-un-cliente.html)
