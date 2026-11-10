@@ -34,6 +34,7 @@ Precio: USD 19
 - [Obsidian Web Clipper: guarda páginas web en tus notas](https://yabianskysempire.github.io/fundador/articulos/obsidian-web-clipper.html)
 - [Cómo registrar objeciones de venta y preparar respuestas](https://yabianskysempire.github.io/fundador/articulos/como-registrar-objeciones-de-venta-y-preparar-respuestas.html)
 - [Cómo preparar una demo de producto para un cliente](https://yabianskysempire.github.io/fundador/articulos/como-preparar-una-demo-de-producto-para-un-cliente.html)
+- [Cómo organizar una agencia pequeña en Obsidian](https://yabianskysempire.github.io/fundador/articulos/como-organizar-una-agencia-pequena-en-obsidian.html)
 - [Cómo controlar tus suscripciones y gastos recurrentes](https://yabianskysempire.github.io/fundador/articulos/como-controlar-tus-suscripciones-y-gastos-recurrentes.html)
 - [Cómo compartir notas de Obsidian con tu equipo](https://yabianskysempire.github.io/fundador/articulos/como-compartir-notas-de-obsidian-con-tu-equipo.html)
 - [Plantilla de Obsidian para freelancers: clientes y cobros](https://yabianskysempire.github.io/fundador/articulos/plantilla-de-obsidian-para-freelancers.html)
