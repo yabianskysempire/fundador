@@ -29,6 +29,7 @@ Precio: USD 19
 
 ## Artículos
 
+- [Cómo compartir notas de Obsidian con tu equipo](https://yabianskysempire.github.io/fundador/articulos/como-compartir-notas-de-obsidian-con-tu-equipo.html)
 - [Plantilla de Obsidian para freelancers: clientes y cobros](https://yabianskysempire.github.io/fundador/articulos/plantilla-de-obsidian-para-freelancers.html)
 - [Cómo poner Obsidian en español \(app, corrector y ayuda\)](https://yabianskysempire.github.io/fundador/articulos/como-poner-obsidian-en-espanol.html)
 - [Cómo cobrar facturas atrasadas sin perder al cliente](https://yabianskysempire.github.io/fundador/articulos/como-cobrar-facturas-atrasadas.html)
