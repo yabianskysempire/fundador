@@ -34,6 +34,7 @@ Precio: USD 19
 - [Notas de lectura en Obsidian: cómo resumir libros](https://yabianskysempire.github.io/fundador/articulos/notas-de-lectura-en-obsidian.html)
 - [Cómo separar finanzas personales y del negocio](https://yabianskysempire.github.io/fundador/articulos/como-separar-finanzas-personales-y-del-negocio.html)
 - [Cómo organizar un equipo remoto en distintas zonas horarias](https://yabianskysempire.github.io/fundador/articulos/como-organizar-un-equipo-remoto-en-distintas-zonas-horarias.html)
+- [Cómo medir el churn y registrar por qué se van tus clientes](https://yabianskysempire.github.io/fundador/articulos/como-medir-el-churn-y-registrar-por-que-se-van-tus-clientes.html)
 - [Cómo emprender con un trabajo de tiempo completo](https://yabianskysempire.github.io/fundador/articulos/como-emprender-con-un-trabajo-de-tiempo-completo.html)
 - [Cómo calcular tu precio por hora como freelancer](https://yabianskysempire.github.io/fundador/articulos/como-calcular-tu-precio-por-hora-como-freelancer.html)
 - [Cómo registrar y validar ideas de producto en Obsidian](https://yabianskysempire.github.io/fundador/articulos/validar-ideas-de-producto-en-obsidian.html)
