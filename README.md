@@ -32,6 +32,7 @@ Precio: USD 19
 - [Vista de grafo en Obsidian: para qué sirve y cómo usarla](https://yabianskysempire.github.io/fundador/articulos/vista-de-grafo-en-obsidian.html)
 - [Templater: plantillas con fechas automáticas en Obsidian](https://yabianskysempire.github.io/fundador/articulos/templater-en-obsidian-para-principiantes.html)
 - [Notas de lectura en Obsidian: cómo resumir libros](https://yabianskysempire.github.io/fundador/articulos/notas-de-lectura-en-obsidian.html)
+- [Cómo calcular tu precio por hora como freelancer](https://yabianskysempire.github.io/fundador/articulos/como-calcular-tu-precio-por-hora-como-freelancer.html)
 - [Cómo registrar y validar ideas de producto en Obsidian](https://yabianskysempire.github.io/fundador/articulos/validar-ideas-de-producto-en-obsidian.html)
 - [Update mensual para inversores: estructura y ejemplo](https://yabianskysempire.github.io/fundador/articulos/update-mensual-para-inversores.html)
 - [Plan de 90 días para un negocio nuevo](https://yabianskysempire.github.io/fundador/articulos/plan-de-90-dias-para-un-negocio-nuevo.html)
