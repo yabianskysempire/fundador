@@ -32,6 +32,7 @@ Precio: USD 19
 - [Vista de grafo en Obsidian: para qué sirve y cómo usarla](https://yabianskysempire.github.io/fundador/articulos/vista-de-grafo-en-obsidian.html)
 - [Templater: plantillas con fechas automáticas en Obsidian](https://yabianskysempire.github.io/fundador/articulos/templater-en-obsidian-para-principiantes.html)
 - [Notas de lectura en Obsidian: cómo resumir libros](https://yabianskysempire.github.io/fundador/articulos/notas-de-lectura-en-obsidian.html)
+- [Cómo tomarte vacaciones siendo fundador](https://yabianskysempire.github.io/fundador/articulos/como-tomarte-vacaciones-siendo-fundador.html)
 - [Cómo separar finanzas personales y del negocio](https://yabianskysempire.github.io/fundador/articulos/como-separar-finanzas-personales-y-del-negocio.html)
 - [Cómo organizar un equipo remoto en distintas zonas horarias](https://yabianskysempire.github.io/fundador/articulos/como-organizar-un-equipo-remoto-en-distintas-zonas-horarias.html)
 - [Cómo medir el churn y registrar por qué se van tus clientes](https://yabianskysempire.github.io/fundador/articulos/como-medir-el-churn-y-registrar-por-que-se-van-tus-clientes.html)
