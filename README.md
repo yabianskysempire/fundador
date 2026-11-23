@@ -29,6 +29,7 @@ Precio: USD 19
 
 ## Artículos
 
+- [Alias en Obsidian para nombrar y enlazar tus notas](https://yabianskysempire.github.io/fundador/articulos/alias-en-obsidian-para-nombrar-y-enlazar-tus-notas.html)
 - [Vista de grafo en Obsidian: para qué sirve y cómo usarla](https://yabianskysempire.github.io/fundador/articulos/vista-de-grafo-en-obsidian.html)
 - [Templater: plantillas con fechas automáticas en Obsidian](https://yabianskysempire.github.io/fundador/articulos/templater-en-obsidian-para-principiantes.html)
 - [Notas de lectura en Obsidian: cómo resumir libros](https://yabianskysempire.github.io/fundador/articulos/notas-de-lectura-en-obsidian.html)
