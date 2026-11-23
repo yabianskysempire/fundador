@@ -29,6 +29,7 @@ Precio: USD 19
 
 ## Artículos
 
+- [Cómo usar Obsidian para estudiar](https://yabianskysempire.github.io/fundador/articulos/como-usar-obsidian-para-estudiar.html)
 - [Cómo registrar tus horas trabajadas en Obsidian](https://yabianskysempire.github.io/fundador/articulos/como-registrar-tus-horas-trabajadas-en-obsidian.html)
 - [Alias en Obsidian para nombrar y enlazar tus notas](https://yabianskysempire.github.io/fundador/articulos/alias-en-obsidian-para-nombrar-y-enlazar-tus-notas.html)
 - [Vista de grafo en Obsidian: para qué sirve y cómo usarla](https://yabianskysempire.github.io/fundador/articulos/vista-de-grafo-en-obsidian.html)
