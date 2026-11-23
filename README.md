@@ -29,6 +29,7 @@ Precio: USD 19
 
 ## Artículos
 
+- [Punto de equilibrio: cómo calcularlo con un ejemplo](https://yabianskysempire.github.io/fundador/articulos/punto-de-equilibrio.html)
 - [Cómo usar Obsidian para estudiar](https://yabianskysempire.github.io/fundador/articulos/como-usar-obsidian-para-estudiar.html)
 - [Cómo registrar tus horas trabajadas en Obsidian](https://yabianskysempire.github.io/fundador/articulos/como-registrar-tus-horas-trabajadas-en-obsidian.html)
 - [Alias en Obsidian para nombrar y enlazar tus notas](https://yabianskysempire.github.io/fundador/articulos/alias-en-obsidian-para-nombrar-y-enlazar-tus-notas.html)
