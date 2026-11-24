@@ -30,6 +30,7 @@ Precio: USD 19
 ## Artículos
 
 - [Reunión de inicio de proyecto: agenda y plantilla](https://yabianskysempire.github.io/fundador/articulos/reunion-de-inicio-de-proyecto.html)
+- [Flujo de caja de un negocio pequeño: plantilla simple](https://yabianskysempire.github.io/fundador/articulos/flujo-de-caja-negocio-pequeno.html)
 - [Cómo pedir testimonios a tus clientes \(con mensajes\)](https://yabianskysempire.github.io/fundador/articulos/como-pedir-testimonios-a-tus-clientes.html)
 - [Punto de equilibrio: cómo calcularlo con un ejemplo](https://yabianskysempire.github.io/fundador/articulos/punto-de-equilibrio.html)
 - [Cómo usar Obsidian para estudiar](https://yabianskysempire.github.io/fundador/articulos/como-usar-obsidian-para-estudiar.html)
