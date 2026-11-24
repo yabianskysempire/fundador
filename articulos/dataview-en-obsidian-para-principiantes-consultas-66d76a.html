@@ -48,7 +48,7 @@
 tipo: proyecto
 estado: activo
 cliente: Estudio Norte
-entrega: 2025-07-15
+entrega: 2026-07-15
 ---</code></pre>
 <p>Y una nota de cliente:</p>
 <pre><code>---
@@ -108,7 +108,7 @@ WHERE !completed
 GROUP BY file.link</code></pre>
 <p><strong>5. Tareas con fecha vencida</strong></p>
 <p>Escribe tus tareas con un campo de fecha, por ejemplo:</p>
-<pre><code>- [ ] Enviar propuesta [vence:: 2025-06-10]</code></pre>
+<pre><code>- [ ] Enviar propuesta [vence:: 2026-06-10]</code></pre>
 <p>Y usa esta consulta:</p>
 <pre><code>TASK
 WHERE !completed AND vence AND vence &lt; date(today)</code></pre>
