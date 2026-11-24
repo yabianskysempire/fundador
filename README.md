@@ -30,6 +30,7 @@ Precio: USD 19
 ## Artículos
 
 - [Zettelkasten en Obsidian: método y paso a paso](https://yabianskysempire.github.io/fundador/articulos/zettelkasten-en-obsidian.html)
+- [Rutina de cierre del día para fundadores en 10 minutos](https://yabianskysempire.github.io/fundador/articulos/rutina-de-cierre-del-dia-para-fundadores-en-10-minutos.html)
 - [Reunión de inicio de proyecto: agenda y plantilla](https://yabianskysempire.github.io/fundador/articulos/reunion-de-inicio-de-proyecto.html)
 - [Flujo de caja de un negocio pequeño: plantilla simple](https://yabianskysempire.github.io/fundador/articulos/flujo-de-caja-negocio-pequeno.html)
 - [Cómo pedir testimonios a tus clientes \(con mensajes\)](https://yabianskysempire.github.io/fundador/articulos/como-pedir-testimonios-a-tus-clientes.html)
